@@ -1,0 +1,22 @@
+---
+import { Button } from "@/components/ui/button";
+import Layout from "../../layouts/Layout.astro";
+import {
+    ArrowRight,
+    Calendar,
+    Trophy,
+    Users,
+    Newspaper,
+    BookOpen,
+    BotIcon as Robot,
+} from "lucide-react";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import BlogPage from "@/components/blog-page";
+
+// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
+// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+---
+
+<Layout>
+    <BlogPage client:load />
+</Layout>

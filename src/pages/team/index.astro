@@ -1,0 +1,27 @@
+---
+import { Button } from "@/components/ui/button";
+import Layout from "../../layouts/Layout.astro";
+import Instagram from "../../components/icons/Instagram.astro";
+import GitHub from "../../components/icons/GitHub.astro";
+import LinkedIn from "../../components/icons/LinkedIn.astro";
+import Gmail from "../../components/icons/Gmail.astro";
+import { Card, CardContent, CardFooter } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { getCollection } from "astro:content";
+import { Link } from "@/components/link";
+import { Image } from "astro:assets";
+import TeamPage from "@/components/team-page";
+import { TabsContent } from "@/components/ui/tabs";
+
+// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
+// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+
+const teamMembers = await getCollection("teamMember");
+---
+
+<Layout>
+  <div class="container py-12 md:py-16">
+    {/* Team Members Grid */}
+    <TeamPage item={teamMembers} client:load />
+  </div>
+</Layout>

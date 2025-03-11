@@ -1,0 +1,46 @@
+---
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
+import { Button } from "../components/ui/button";
+import { Menu } from "lucide-react";
+import MobileMenu from "@/components/mobile-menu";
+import { Link } from "@/components/link";
+---
+
+<header
+  class="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60"
+>
+  <div class="container flex h-16 items-center justify-between">
+    <a href="/" class="flex items-center gap-2">
+      <img src="/BFCDEPAN.png" class="w-44" />
+    </a>
+    <nav class="hidden md:flex gap-6">
+      <a href="/" class="text-sm font-medium hover:text-amber-600"> Home </a>
+      <a href="/robots" class="text-sm font-medium hover:text-amber-600">
+        Robot
+      </a>
+      <a href="/divisions" class="text-sm font-medium hover:text-amber-600">
+        Divisions
+      </a>
+      <a href="/team" class="text-sm font-medium hover:text-amber-600">
+        Team
+      </a>
+      <a href="/news" class="text-sm font-medium hover:text-amber-600">
+        News
+      </a>
+      <a href="/achievements" class="text-sm font-medium hover:text-amber-600">
+        Achievements
+      </a>
+      <a href="/competitions" class="text-sm font-medium hover:text-amber-600">
+        Competitions
+      </a>
+    </nav>
+    <div class="flex items-center gap-4">
+      <Link
+        href="/contact"
+        className="hidden md:flex bg-amber-600 hover:bg-amber-500"
+        >Contact Us</Link
+      >
+      <MobileMenu client:load />
+    </div>
+  </div>
+</header>
