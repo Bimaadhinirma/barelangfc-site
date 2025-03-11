@@ -1,12 +1,12 @@
 ---
-nim: 4212201042
-name: "Dimas Rizky Saputra"
-role: "Leader"
-angkatan: 2023-01-01
-division: "Programming"
-bio: "One Goals!"
+nim: 4222201064
+name: "Bela Lisfatia"
+role: "Member"
+angkatan: 2025-01-01
+division: "Electrical"
+bio: "Trust Me"
 status: "Active"
-image: "/dimas.png"
+image: "/bela.jpg"
 education: 
   - degree: "Ph.D. in Computer Science"
     institution: "Stanford University"
@@ -27,9 +27,17 @@ projects:
         "Created an AI-driven framework for seamless interaction between humans and robots in shared workspaces."
 
 awards:
-  - name: "3rd Winner RoboCup"
+  - name: "Mahasiswa Berprestasi"
+    organization: "Politeknik Negeri Batam"
+    year: "2024"
+
+  - name: "3rd Winner RoboCup Humanoid League KidSize"
     organization: "International RoboCup"
-    year: "2023"
+    year: "2024"
+
+  - name: "3rd Winner RoboCup Humanoid League KidSize Technical Challenge"
+    organization: "International RoboCup"
+    year: "2024"
 
 contact:
     email: "mailto:emily.chen@roboorg.com"

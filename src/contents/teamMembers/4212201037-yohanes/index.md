@@ -4,7 +4,7 @@ name: "Yohanes Hasintongan Manullang"
 role: "Member"
 angkatan: 2023-01-01
 division: "Electrical"
-bio: "Child of God ✝️."
+bio: "Child of God ✝️"
 status: "Active"
 image: "/yohanes.jpeg"
 education: 
@@ -27,13 +27,43 @@ projects:
         "Created an AI-driven framework for seamless interaction between humans and robots in shared workspaces."
 
 awards:
-  - name: "3rd Winner RoboCup"
+  - name: "Mahasiswa Berprestasi"
+    organization: "Politeknik Negeri Batam"
+    year: "2024"
+
+  - name: "3rd Winner RoboCup Humanoid League KidSize"
+    organization: "International RoboCup"
+    year: "2024"
+
+  - name: "3rd Winner RoboCup Humanoid League KidSize Technical Challenge"
+    organization: "International RoboCup"
+    year: "2024"
+  
+  - name: "3rd Winner Kontes Robot Indonesia"
+    organization: "BPTI Puspresnas"
+    year: "2024"
+
+  - name: "Pendanaan Program Kreativitas Mahasiswa (PKM) - Karsa Cipta"
+    organization: "Kemenristek Dikti"
+    year: "2024"
+
+  - name: "Mahasiswa Berprestasi"
+    organization: "Politeknik Negeri Batam"
+    year: "2023"
+
+  - name: "3rd Winner RoboCup Humanoid League"
     organization: "International RoboCup"
     year: "2023"
 
+  - name: "3rd Winner RoboCup Humanoid League KidSize Drop-In Challenge"
+    organization: "International RoboCup"
+    year: "2023"
+
+  
+
 contact:
-    email: "mailto:emily.chen@roboorg.com"
-    linkedin: "https://www.linkedin.com/in/emilychen"
-    instagram: "@EmilyRobotics"
-    github: "https://github.com/emilychen"
+    email: "yohanesmanullang647@gmail.com"
+    linkedin: "https://www.linkedin.com/in/yohanes-hasintongan-manullang"
+    instagram: "https://www.instagram.com/yo.mnllg/"
+    github: "https://github.com/YohanesManullang"
 ---

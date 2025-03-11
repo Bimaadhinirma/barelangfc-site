@@ -1,12 +1,12 @@
 ---
-nim: 4212201042
-name: "Dimas Rizky Saputra"
-role: "Leader"
+nim: 4242201030
+name: "Resfa Dwi Saputra"
+role: "Member"
 angkatan: 2023-01-01
 division: "Programming"
-bio: "One Goals!"
-status: "Active"
-image: "/dimas.png"
+bio: "Always smile"
+status: "Deactive"
+image: "/resfa.png"
 education: 
   - degree: "Ph.D. in Computer Science"
     institution: "Stanford University"
@@ -27,9 +27,10 @@ projects:
         "Created an AI-driven framework for seamless interaction between humans and robots in shared workspaces."
 
 awards:
-  - name: "3rd Winner RoboCup"
-    organization: "International RoboCup"
-    year: "2023"
+  - name: "Pendanaan Program Kreativitas Mahasiswa (PKM) - Karsa Cipta"
+    organization: "Kemenristek Dikti"
+    year: "2024"
+
 
 contact:
     email: "mailto:emily.chen@roboorg.com"
