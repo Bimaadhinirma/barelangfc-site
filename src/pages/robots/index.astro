@@ -1,16 +1,5 @@
 ---
-import { Button } from "@/components/ui/button";
 import Layout from "../../layouts/Layout.astro";
-import {
-	ArrowRight,
-	Calendar,
-	Trophy,
-	Users,
-	Newspaper,
-	BookOpen,
-	BotIcon as Robot,
-} from "lucide-react";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import RobotsPage from "@/components/robots-page";
 import { getCollection } from "astro:content";
 const robots = await getCollection("robot");

@@ -1,7 +1,5 @@
-import type { getEntries, CollectionEntry } from "astro:content";
-import { Button } from "./ui/button"
+import type { CollectionEntry } from "astro:content";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./ui/tabs"
-import { Image } from "astro:assets";
 interface Props {
   item: CollectionEntry<"robot">[];
 }

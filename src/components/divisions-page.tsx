@@ -1,4 +1,3 @@
-import { Brain, Cog, Cpu, PersonStanding, ScanEye, ScrollText } from "lucide-react"
 import type {CollectionEntry} from "astro:content";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "./ui/accordion";
 interface Props {

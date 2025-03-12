@@ -1,14 +1,8 @@
 import { Card, CardContent, CardFooter } from "./ui/card"
 import { Badge } from "./ui/badge"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./ui/tabs"
-import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content"
 import { Link } from "./link"
-import Gmail from "./icons/Gmail.astro"
-import LinkedIn from "./icons/LinkedIn.astro"
-import Instagram from "./icons/Instagram.astro"
-import GitHub from "./icons/GitHub.astro"
-import { Button } from "./ui/button";
 interface Props {
   item: CollectionEntry<"teamMember">[];
 }
