@@ -6,7 +6,7 @@ export function PartnersSlider() {
   const containerRef = useRef<HTMLDivElement>(null)
 
   // Partners data
-  const partners = ["polibatam.png", "BFC.png", "barelang7.jpg", "barelang1.png", "barelang5.png", "barelang63.jpg", "barelangmarine.png", "barelangsky.png"]
+  const partners = ["polibatam.png", "BFC.png", "barelang7.png", "barelang1.png", "barelang5.png", "barelang63.png", "barelangmarine.png", "barelangsky.png"]
 
   return (
     <div className="mt-12 pt-8 border-t border-gray-800">

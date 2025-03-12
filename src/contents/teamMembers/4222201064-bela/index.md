@@ -4,39 +4,48 @@ name: "Bela Lisfatia"
 role: "Member"
 angkatan: 2024-01-01
 division: "Electrical"
-bio: "Trust Me"
+bio: "Student College"
 status: "Active"
-image: "/bela.jpg"
+image: "/bela.png"
 education: 
-  - degree: "Ph.D. in Computer Science"
-    institution: "Stanford University"
-    year: "2009"
+  - degree: "S.Tr.T in D4 Teknik Robotika"
+    institution: "Batam State Polytechnics"
+    year: "2022 - Now"
+
+  - degree: "IPA"
+    institution: "SMAN 16 Batam"
+    year: "2018 - 2021"
+
 experience:
-  - position: "Director of AI & Machine Learning"
-    company: "RoboOrg"
-    period: "2018 - Present"
+  - position: "Inauguration Committee of Batam State Polytechnics"
+    company: "Batam State Polytechnics"
+    period: "2023"
+
+  - position: "Secretary of Paskibra SMAN 16 Batam"
+    company: "SMAN 16 Batam"
+    period: "2019 - 2021"
 
 projects:
-  - name: "Human-Robot Collaboration Framework"
+  - name: "Project Based Learning Humanoid Robot Soccer"
     description:
-        "Created an AI-driven framework for seamless interaction between humans and robots in shared workspaces."
+        "Project humanoid dilaksanakan untuk research development dan future improvement dengan mengaplikasikan teknologi-teknologi terbaru di bidang robotika"
+
+  - name: "Project Based Learning Robot Tari"
+    description:
+        "Project robot tari dilaksanakan untuk memungkinkan interaksi manusia-robot alami sambil melestarikan budaya tradisional Indonesia melalui teknologi robotika"
 
 awards:
-  - name: "Mahasiswa Berprestasi"
+  - name: "Mahasiswa Berprestasi 2024"
     organization: "Politeknik Negeri Batam"
     year: "2024"
 
-  - name: "3rd Winner RoboCup Humanoid League KidSize"
-    organization: "International RoboCup"
-    year: "2024"
-
-  - name: "3rd Winner RoboCup Humanoid League KidSize Technical Challenge"
-    organization: "International RoboCup"
+  - name: "3rd place in the regional level of the Indonesian Dance Robot Contest 2024"
+    organization: "BPTI Puspresnas"
     year: "2024"
 
 contact:
-    email: "mailto:emily.chen@roboorg.com"
-    linkedin: "https://www.linkedin.com/in/emilychen"
-    instagram: "@EmilyRobotics"
-    github: "https://github.com/emilychen"
+    email: "lisfatia@gmail.com"
+    linkedin: "https://www.linkedin.com/in/bela-lisfatia-4a129b294/"
+    instagram: "https://www.instagram.com/belafatia_/"
+    github: "https://github.com/BelaLisfatia"
 ---
