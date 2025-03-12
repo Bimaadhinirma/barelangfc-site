@@ -5,6 +5,7 @@ import Instagram from "@/components/icons/Instagram.astro";
 import LinkedIn from "@/components/icons/LinkedIn.astro";
 import Youtube from "@/components/icons/Youtube.astro";
 import { Link } from "@/components/link";
+import { PartnersSlider } from "@/components/partners-slider";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { getCollection } from "astro:content";
@@ -119,6 +120,8 @@ const contacts = await getCollection("contacts");
         ))}
       </div>
     </div>
+    {/* Partners Section with sliding animation */}
+    <PartnersSlider />
     <div
       class="border-t border-gray-800 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center"
     >

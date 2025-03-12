@@ -90,6 +90,7 @@ export function GitHubIcon(props: React.SVGProps<SVGSVGElement>) {
   export default function TeamPage({ item }: Props) {
     const years = item.map(({data})=>data.angkatan.getFullYear());
     const yearsUnique = years.filter((value, index, array) => array.indexOf(value) === index);
+    console.log(yearsUnique);
     return (
       <div>
         <div className="space-y-4 text-center mb-10">
