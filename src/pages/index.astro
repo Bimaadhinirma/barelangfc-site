@@ -14,6 +14,9 @@ achievements.sort(function(a,b){
 const achievement = achievements.slice(0, 4);
 const divisions = await getCollection("division");
 const team = teamMembers.slice(0, 4);
+team.sort(function(a,b){
+  return a.data.angkatan.getTime() - b.data.angkatan.getTime();
+});
 const robots = await getCollection("robot");
 robots.sort(function(a,b){
   return b.data.date.getTime() - a.data.date.getTime();
@@ -50,8 +53,8 @@ const latestNews = news.slice(0, 3);
 				  This is a humanoid robot research team
 				</p>
 				<div class="flex flex-col gap-2 min-[400px]:flex-row">
-					<Link className="bg-amber-600 hover:bg-amber-500" size="lg" href="/projects">
-					  Explore Our Projects <ArrowRight className="ml-2 h-4 w-4" />
+					<Link className="bg-amber-600 hover:bg-amber-500" size="lg" href="/robots">
+					  Explore Our Robots <ArrowRight className="ml-2 h-4 w-4" />
 					</Link>
 				  <Button
 					variant="outline"

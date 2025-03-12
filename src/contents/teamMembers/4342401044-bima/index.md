@@ -7,40 +7,43 @@ division: "Programming"
 bio: "Simple."
 status: "Active"
 image: "/bima.jpeg"
-#slug: "4342401044-bima"
 education: 
-  - degree: "Ph.D. in Computer Science"
-    institution: "Stanford University"
-    year: "2009"
-  - degree: "M.S. in Artificial Intelligence"
-    institution: "MIT"
-    year: "2005"
-  - degree: "B.S. in Electrical Engineering"
-    institution: "UC Berkeley"
-    year: "2003"
+  - degree: "S.Tr.Kom Software Engineering"
+    institution: "Batam State Polytechnics"
+    year: "2028"
 experience:
-  - position: "Director of AI & Machine Learning"
-    company: "RoboOrg"
-    period: "2018 - Present"
-
-publications:
-  - title: "Deep Reinforcement Learning for Robot Manipulation in Dynamic Environments"
-    journal: "IEEE Robotics and Automation Letters"
-    year: "2023"
+  - position: "Team Leader Robotics Bazma"
+    company: "SMAIT PLUS BAZMA BRILLIANT"
+    period: "2022"
+  - position: "PBL Leader 2024"
+    company: "SBatam State Polytechnics"
+    period: "2024"
 
 projects:
-  - name: "Human-Robot Collaboration Framework"
+  - name: "Smart Glasses Technology as a Visual Aid for the Blind in Recognizing Objects Based on Artificial Intelligence and Voice Instructions."
     description:
-        "Created an AI-driven framework for seamless interaction between humans and robots in shared workspaces."
+        "Created Smart Glasses for Blind People to Scanning Money and Voice Output Based on Artificial Intelligence used HuskeyLens and Arduino Nano."
+  - name: "Attendance System Based SMS Gateway."
+    description:
+        "Attendance System for School using RFID/Fingerprint and Send SMS to Parent for Notification."
+  - name: "Virtual Event Check-in."
+    description:
+        "Attendance System for Virtual Event, helping Event Organizer for recapitulation an participants who attended the event, and Automatic generate Sertificate for participant."
 
 awards:
-  - name: "Outstanding Researcher Award"
-    organization: "International Robotics Foundation"
+  - name: "Gold Award Winner in BADLISHAH INTERNATIONAL INNOVATION COMPETITION (BIVIC) Malaysia"
+    organization: "BADLISHAH INTERNATIONAL INNOVATION COMPETITION (BIVIC)"
+    year: "2023"
+  - name: "3rd Place Winner of the LKTIN UIN Sayyid Ali Rahmatullah Tulungagung"
+    organization: "UIN Sayyid Ali Rahmatullah Tulungagung"
+    year: "2023"
+  - name: "1st Place in OSPHI KIR Sanata Dharma University Yogyakarta"
+    organization: "Sanata Dharma University"
     year: "2022"
 
 contact:
-    email: "mailto:emily.chen@roboorg.com"
-    linkedin: "https://www.linkedin.com/in/emilychen"
-    instagram: "@EmilyRobotics"
-    github: "https://github.com/emilychen"
+    email: "mailto:bimaadhinirma@gmail.com"
+    linkedin: "https://www.linkedin.com/in/whelmyran-bima-adhinirma-502733294/"
+    instagram: "https://instagram.com/bimaadinirma"
+    github: "https://github.com/bimaadhinirma"
 ---

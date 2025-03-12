@@ -16,11 +16,6 @@ experience:
     company: "RoboOrg"
     period: "2018 - Present"
 
-publications:
-  - title: "Deep Reinforcement Learning for Robot Manipulation in Dynamic Environments"
-    journal: "IEEE Robotics and Automation Letters"
-    year: "2023"
-
 projects:
   - name: "Human-Robot Collaboration Framework"
     description:

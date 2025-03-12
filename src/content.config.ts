@@ -120,5 +120,33 @@ const contacts = defineCollection({
 
 })
 
+const lecturer = defineCollection({
+    loader: glob({pattern: "**/*.md", base: "./src/contents/lecturers"}),
+    schema: ({image}) => z.object({
+        nik: z.number(),
+        code: z.string(),
+        name: z.string(),
+        specialization: z.string(),
+        isGuardianLecturer: z.boolean().optional(),
+        photo: image(),
+        contact: z.object({
+            email: z.string().optional(),
+            linkedin: z.string().optional(),
+            instagram: z.string().optional(),
+            github: z.string().optional(),
+        }),
+    })
+});
 
-export const collections = {teamMember, achievement, division, robot, competition, news: news, contacts};
+const subject = defineCollection({
+    loader: glob({pattern: "**/*.md", base: "./src/contents/subjects"}),
+    schema: z.object({
+        code: z.string(),
+        title: z.string(),
+        theory: reference("lecturer"),
+        practice: reference("lecturer").optional(),
+    })
+});
+
+
+export const collections = {teamMember, achievement, division, robot, competition, news: news, contacts, lecturer, subject};

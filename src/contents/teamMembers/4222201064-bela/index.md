@@ -2,7 +2,7 @@
 nim: 4222201064
 name: "Bela Lisfatia"
 role: "Member"
-angkatan: 2025-01-01
+angkatan: 2024-01-01
 division: "Electrical"
 bio: "Trust Me"
 status: "Active"
@@ -15,11 +15,6 @@ experience:
   - position: "Director of AI & Machine Learning"
     company: "RoboOrg"
     period: "2018 - Present"
-
-publications:
-  - title: "Deep Reinforcement Learning for Robot Manipulation in Dynamic Environments"
-    journal: "IEEE Robotics and Automation Letters"
-    year: "2023"
 
 projects:
   - name: "Human-Robot Collaboration Framework"

@@ -4,6 +4,17 @@ import { Button } from "../components/ui/button";
 import { Menu } from "lucide-react";
 import MobileMenu from "@/components/mobile-menu";
 import { Link } from "@/components/link";
+const navigation = [
+  { name: "Home", href: "/" },
+  { name: "Robots", href: "/robots" },
+  { name: "Divisions", href: "/divisions" },
+  { name: "Teams", href: "/team" },
+  { name: "Lecturers", href: "/lecturers" },
+  { name: "News", href: "/news" },
+  { name: "Achievements", href: "/achievements" },
+  { name: "Competitions", href: "/competitions" },
+];
+const pathname = Astro.url.pathname;
 ---
 
 <header
@@ -14,25 +25,24 @@ import { Link } from "@/components/link";
       <img src="/BFCDEPAN.png" class="w-44" />
     </a>
     <nav class="hidden md:flex gap-6">
-      <a href="/" class="text-sm font-medium hover:text-amber-600"> Home </a>
-      <a href="/robots" class="text-sm font-medium hover:text-amber-600">
-        Robot
-      </a>
-      <a href="/divisions" class="text-sm font-medium hover:text-amber-600">
-        Divisions
-      </a>
-      <a href="/team" class="text-sm font-medium hover:text-amber-600">
-        Team
-      </a>
-      <a href="/news" class="text-sm font-medium hover:text-amber-600">
-        News
-      </a>
-      <a href="/achievements" class="text-sm font-medium hover:text-amber-600">
-        Achievements
-      </a>
-      <a href="/competitions" class="text-sm font-medium hover:text-amber-600">
-        Competitions
-      </a>
+      {
+        navigation.map((item) => (
+          <a
+            href={item.href}
+            class={`text-sm font-medium transition-colors hover:text-amber-600 ${
+              (
+                item.href == "/"
+                  ? pathname === item.href
+                  : pathname.startsWith(item.href)
+              )
+                ? "text-amber-600"
+                : "text-muted-foreground"
+            }`}
+          >
+            {item.name}
+          </a>
+        ))
+      }
     </nav>
     <div class="flex items-center gap-4">
       <Link
