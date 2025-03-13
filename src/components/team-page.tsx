@@ -127,7 +127,7 @@ export function GitHubIcon(props: React.SVGProps<SVGSVGElement>) {
                 >
                   {data.status}
                 </span>
-              </div>
+                </div>
               </div>  
               <CardContent className="p-4">
                 <h3 className="font-bold text-lg mb-1">{data.name}</h3>

@@ -4,8 +4,8 @@ name: "I Putu Angga Hanira Agraprana"
 role: "Member"
 angkatan: 2025-01-01
 division: "Programming"
-prodi: "Teknik Mekatronika"
-bio: "I'm from Bali"
+prodi: "D4 Teknik Mekatronika"
+bio: "Don't tell people your dreams. Show them."
 status: "Active"
 image: "/angga.png"
 education: 

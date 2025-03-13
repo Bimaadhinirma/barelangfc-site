@@ -4,7 +4,7 @@ name: "Muhammad Rezky Fatya"
 role: "Member"
 angkatan: 2023-01-01
 division: "Electrical"
-prodi: "gatau"
+prodi: "D4 Teknik Mekatronika"
 bio: "Be Yourself"
 status: "Deactive"
 image: "/rezky.png"

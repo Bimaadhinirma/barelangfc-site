@@ -7,46 +7,42 @@ division: "Programming"
 prodi: "Teknik Robotika"
 bio: "Siap, Santai Aja"
 status: "Active"
-image: "/besli.jpg"
+image: "/besli.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"
-    year: "2023 - Now"
+    year: "2023 - Present"
 
-  - degree: "IPA"
-    institution: "SMAN 16 Batam"
-    year: "2018 - 2021"
+  - degree: "SMA - Jurusan IPA"
+    institution: "SMA Swasta Teladan Medan"
+    year: "2020 - 2023"
 
 experience:
-  - position: "Inauguration Committee of Batam State Polytechnics"
+  - position: "Member Humanoid Robot Soccer"
+    company: "Barelang FC"
+    period: "2024 - Present"
+
+  - position: "Christmas Chair El-Shaddai of Batam State Polytechnics"
     company: "Batam State Polytechnics"
     period: "2023"
-
-  - position: "Secretary of Paskibra SMAN 16 Batam"
-    company: "SMAN 16 Batam"
-    period: "2019 - 2021"
 
 projects:
   - name: "Project Based Learning Humanoid Robot Soccer"
     description:
-        "Project humanoid dilaksanakan untuk research development dan future improvement dengan mengaplikasikan teknologi-teknologi terbaru di bidang robotika"
+        "Project humanoid dilaksanakan sebagai bagian dari penelitian dan pengembangan untuk perbaikan di masa depan, dengan mengimplementasikan teknologi-teknologi terbaru di bidang robotika."
 
-  - name: "Project Based Learning Robot Tari"
+  - name: "Project Based Learning Humanoid Robot Soccer"
     description:
-        "Project robot tari dilaksanakan untuk memungkinkan interaksi manusia-robot alami sambil melestarikan budaya tradisional Indonesia melalui teknologi robotika"
+        "Pengembangan perangkat lunak diagnostik untuk memonitor arus pada servo robot humanoid, menampilkan hasilnya dalam grafik secara real-time, serta menyimpan data terkait dalam format file CSV"
 
 awards:
   - name: "Mahasiswa Berprestasi 2024"
     organization: "Politeknik Negeri Batam"
     year: "2024"
 
-  - name: "3rd place in the regional level of the Indonesian Dance Robot Contest 2024"
-    organization: "BPTI Puspresnas"
-    year: "2024"
-
 contact:
-    email: "lisfatia@gmail.com"
-    linkedin: "https://www.linkedin.com/in/bela-lisfatia-4a129b294/"
-    instagram: "https://www.instagram.com/belafatia_/"
-    github: "https://github.com/BelaLisfatia"
+    email: "mailto:beslipakpahan710@gmail.com"
+    linkedin: "https://www.linkedin.com/in/besli-pakpahan-b65854334/"
+    instagram: "https://www.instagram.com/bess_pakpahan/"
+    github: "https://github.com/BesliPakpahan"
 ---

@@ -1,6 +1,6 @@
 ---
-id: "intelligent"
-name: "Intelligent"
+id: "strategy"
+name: "Strategy"
 icon: ./intelligent.png
 description: "Developing self-navigating robots for complex environments"
 longDescription:

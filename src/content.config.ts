@@ -127,6 +127,8 @@ const lecturer = defineCollection({
         nik: z.number(),
         code: z.string(),
         name: z.string(),
+        role: z.string(),
+        status: z.string(),
         specialization: z.string(),
         isGuardianLecturer: z.boolean().optional(),
         photo: image(),

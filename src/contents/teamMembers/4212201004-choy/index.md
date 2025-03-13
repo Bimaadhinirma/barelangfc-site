@@ -4,7 +4,7 @@ name: "Choirul Prayoga"
 role: "Member"
 angkatan: 2023-01-01
 division: "Programming"
-prodi: "Teknik Mekatronika"
+prodi: "D4 Teknik Mekatronika"
 bio: "yang nulis kata-kata sok asik."
 status: "Active"
 image: "/choy.jpg"

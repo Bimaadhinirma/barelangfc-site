@@ -4,7 +4,7 @@ name: "Whelmyran Bima Adhienirma"
 role: "Member"
 angkatan: 2025-01-15
 division: "Programming"
-prodi: "Teknologi Rekayasa Perangkat Lunak"
+prodi: "D4 Teknologi Rekayasa Perangkat Lunak"
 bio: "Simple."
 status: "Active"
 image: "/bima.jpeg"
