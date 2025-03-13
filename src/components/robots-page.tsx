@@ -6,7 +6,7 @@ interface Props {
 
 export default function RobotsPage({ item }: Props) {
 	const years = item.map(({data})=>data.date.getFullYear());
-  const yearsUnique = years.filter((value, index, array) => array.indexOf(value) === index);
+  const yearsUnique = [...new Set(years)].sort((a, b) => b - a); 
 return (
     <div className="container py-12 md:py-16">
       <div className="space-y-4 text-center mb-10">
@@ -16,16 +16,16 @@ return (
         </p>
       </div>
 
-      <Tabs defaultValue="2016" className="w-full">
-        <div className="flex justify-center mb-8">
-          <TabsList className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7">
+      <Tabs defaultValue={yearsUnique[0]?.toString()} className="w-full">
+          <div className="flex justify-center mb-8">
+          <TabsList className="flex space-x-4 overflow-x-auto">
             {yearsUnique.map((year) => (
               <TabsTrigger key={year} value={year.toString()} className="text-sm">
-                {year}
+               {year}
               </TabsTrigger>
             ))}
           </TabsList>
-        </div>
+          </div>
 
         {yearsUnique.map((year) => (
           <TabsContent key={year} value={year.toString()} className="mt-0">
