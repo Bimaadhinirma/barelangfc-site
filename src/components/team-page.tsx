@@ -89,7 +89,7 @@ export function GitHubIcon(props: React.SVGProps<SVGSVGElement>) {
 }
   export default function TeamPage({ item }: Props) {
     const years = item.map(({data})=>data.angkatan.getFullYear());
-    const yearsUnique = years.filter((value, index, array) => array.indexOf(value) === index);
+    const yearsUnique = [...new Set(years)].sort((a, b) => b - a); // Urutkan tahun dari yang terbesar ke terkecil
     return (
       <div>
         <div className="space-y-4 text-center mb-10">
@@ -100,15 +100,14 @@ export function GitHubIcon(props: React.SVGProps<SVGSVGElement>) {
         </div>
         <Tabs defaultValue={yearsUnique[0]?.toString()} className="w-full">
           <div className="flex justify-center mb-8">
-            <TabsList className={`grid grid-cols-${yearsUnique.length} md:grid-cols-4 lg:grid-cols-${yearsUnique.length}`}>
-              {yearsUnique.map((year) => (
-                <TabsTrigger key={year} value={year.toString()} className="text-sm">
-                  {year}
-                </TabsTrigger>
-              ))}
-            </TabsList>
+          <TabsList className="flex space-x-4 overflow-x-auto">
+            {yearsUnique.map((year) => (
+              <TabsTrigger key={year} value={year.toString()} className="text-sm">
+               {year}
+              </TabsTrigger>
+            ))}
+          </TabsList>
           </div>
-        
         
         {yearsUnique.map((year) => (
           <TabsContent key={year} value={year.toString()} className="mt-0">

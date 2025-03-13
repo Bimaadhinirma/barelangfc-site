@@ -1,13 +1,13 @@
 ---
-nim: 4222411039
-name: "Muhammad Hazza"
+nim: 4212101033
+name: "Leo Chandra Yulianto"
 role: "Member"
-angkatan: 2025-01-01
-division: "Mechanical"
-prodi: "D4 Teknik Robotika"
-bio: "Sedang Sibuk!"
-status: "Active"
-image: "/hazza.jpg"
+angkatan: 2022-01-01
+division: "Programming"
+prodi: "D4 Teknik Mekatronika"
+bio: "AUDE ET VINCES"
+status: "Deactive"
+image: "/leo.jpg"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

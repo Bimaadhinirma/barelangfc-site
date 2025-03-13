@@ -7,7 +7,7 @@ division: "Mechanical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Tetap la terus mencoba dan belajar"
 status: "Deactive"
-image: "/aldi.jpeg"
+image: "/aldi.jpg"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

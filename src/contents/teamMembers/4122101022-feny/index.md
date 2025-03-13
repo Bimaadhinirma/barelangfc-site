@@ -1,13 +1,13 @@
 ---
-nim: 4222411039
-name: "Muhammad Hazza"
+nim: 4122101022
+name: "Feny Rafidah "
 role: "Member"
-angkatan: 2025-01-01
-division: "Mechanical"
-prodi: "D4 Teknik Robotika"
-bio: "Sedang Sibuk!"
-status: "Active"
-image: "/hazza.jpg"
+angkatan: 2023-01-01
+division: "Official"
+prodi: "D4 Administrasi Bisnis Terapan"
+bio: "Be Brave Enough to Heal Yourself"
+status: "Deactive"
+image: "/feny.jpg"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"
