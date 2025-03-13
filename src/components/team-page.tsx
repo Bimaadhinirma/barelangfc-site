@@ -90,7 +90,6 @@ export function GitHubIcon(props: React.SVGProps<SVGSVGElement>) {
   export default function TeamPage({ item }: Props) {
     const years = item.map(({data})=>data.angkatan.getFullYear());
     const yearsUnique = years.filter((value, index, array) => array.indexOf(value) === index);
-    console.log(yearsUnique);
     return (
       <div>
         <div className="space-y-4 text-center mb-10">
@@ -101,7 +100,7 @@ export function GitHubIcon(props: React.SVGProps<SVGSVGElement>) {
         </div>
         <Tabs defaultValue={yearsUnique[0]?.toString()} className="w-full">
           <div className="flex justify-center mb-8">
-            <TabsList className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7">
+            <TabsList className={`grid grid-cols-${yearsUnique.length} md:grid-cols-4 lg:grid-cols-${yearsUnique.length}`}>
               {yearsUnique.map((year) => (
                 <TabsTrigger key={year} value={year.toString()} className="text-sm">
                   {year}
@@ -133,10 +132,12 @@ export function GitHubIcon(props: React.SVGProps<SVGSVGElement>) {
               <CardContent className="p-4">
                 <h3 className="font-bold text-lg mb-1">{data.name}</h3>
                 <p className="text-sm text-black-500 mb-2">{data.nim}</p>
+                <p className="text-sm text-amber-500 mb-2">{data.prodi}</p>
                 <p className="text-sm text-gray-500 mb-2">{data.role} | {year.toString()}</p>
                 <Badge variant="secondary" className="mb-3 font-bold text-s">
                  {data.division.toString()}
                 </Badge>
+                <p className="text-sm text-black-500 mb-2">{data.nim}</p> 
                 <p className="text-sm text-gray-600 line-clamp-3">{data.bio}</p>
               </CardContent>
               <CardFooter className="p-4 pt-0 flex justify-between">

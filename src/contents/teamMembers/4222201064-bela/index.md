@@ -4,6 +4,7 @@ name: "Bela Lisfatia"
 role: "Member"
 angkatan: 2024-01-01
 division: "Electrical"
+prodi: "Teknik Robotika"
 bio: "Student College"
 status: "Active"
 image: "/bela.png"

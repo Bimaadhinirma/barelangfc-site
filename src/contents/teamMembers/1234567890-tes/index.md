@@ -4,6 +4,7 @@ name: "TES"
 role: "Member"
 angkatan: 2023-01-01
 division: "Programming"
+prodi: "Tes"
 bio: "Keep Spirits!"
 status: "Active"
 image: "/choy.jpg"

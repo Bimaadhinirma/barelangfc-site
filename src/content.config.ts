@@ -10,6 +10,7 @@ const teamMember = defineCollection({
         angkatan: z.date(),
         role: z.string(),
         division: z.string(),
+        prodi: z.string(),
         bio: z.string().optional(),
         status: z.string(),
         image: z.string(),
@@ -17,21 +18,21 @@ const teamMember = defineCollection({
             degree: z.string().optional(),
             institution: z.string().optional(),
             year: z.string().optional(),
-        })),
+        })).optional(),
         experience: z.array(z.object({
             position: z.string().optional(),
             company: z.string().optional(),
             period: z.string().optional(),
-        })),
+        })).optional(),
         projects: z.array(z.object({
             name: z.string().optional(),
             description: z.string().optional(),
-        })),
+        })).optional(),
         awards: z.array(z.object({
             name: z.string().optional(),
             organization: z.string().optional(),
             year: z.string().optional(),
-        })),
+        })).optional(),
         contact: z.object({
             email: z.string().optional(),
             linkedin: z.string().optional(),
@@ -51,7 +52,7 @@ const achievement = defineCollection({
         description: z.string(),
         icon: z.string(),
         img: image(),
-        teamMember: z.array(reference("teamMember")),
+        teamMember: z.array(reference("teamMember").optional()),
     })
 });
 const division = defineCollection({
@@ -98,7 +99,7 @@ const news = defineCollection({
         category: z.string(),
         excerpt: z.string(),
         image: image(),
-        relatedArticles: z.array(reference("news")),
+        relatedArticles: z.array(reference("news").optional()),
     })
 })
 

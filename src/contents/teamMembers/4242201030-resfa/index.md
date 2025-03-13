@@ -4,6 +4,7 @@ name: "Resfa Dwi Saputra"
 role: "Member"
 angkatan: 2023-01-01
 division: "Programming"
+prodi: "gatau"
 bio: "Always smile"
 status: "Deactive"
 image: "/resfa.png"

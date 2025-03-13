@@ -4,6 +4,7 @@ name: "Muhammad Rezky Fatya"
 role: "Member"
 angkatan: 2023-01-01
 division: "Electrical"
+prodi: "gatau"
 bio: "Be Yourself"
 status: "Deactive"
 image: "/rezky.png"

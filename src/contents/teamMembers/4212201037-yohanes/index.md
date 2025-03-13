@@ -4,6 +4,7 @@ name: "Yohanes Hasintongan Manullang"
 role: "Member"
 angkatan: 2023-01-01
 division: "Electrical"
+prodi: "Teknik Mekatronika"
 bio: "Child of God ✝️"
 status: "Active"
 image: "/yohanes.jpeg"

@@ -12,13 +12,22 @@ interface Props {
 }
 
 export default function TeamMemberPage({ item }: Props) {
-    return <Tabs defaultValue="experience" className="w-full">
+    return <Tabs defaultValue={item.data.experience ? "experience" : item.data.education ? "education" : item.data.projects ? "projects" : item.data.awards ? "awards" : ""} className="w-full">
         <TabsList>
+            { item.data.experience ? (
             <TabsTrigger value="experience">Experience</TabsTrigger>
+            ): (<div/>) }
+            { item.data.education ? (
             <TabsTrigger value="education">Education</TabsTrigger>
+            ): (<div/>) }
+            { item.data.projects ? (
             <TabsTrigger value="projects">Projects</TabsTrigger>
+            ): (<div/>) }
+            { item.data.awards ? (
             <TabsTrigger value="awards">Awards</TabsTrigger>
+            ) : (<div/>) }
         </TabsList>
+        
         <TabsContent value="experience">
             <Card>
                 <CardHeader>
@@ -27,17 +36,18 @@ export default function TeamMemberPage({ item }: Props) {
                         Experience
                     </CardTitle>
                 </CardHeader>
+                { item.data.experience ? (
                 <CardContent>
                     <ul className="space-y-4">
                     {
-                        item.data.experience.map(
+                        item.data.experience?.map(
                                 (data, index) => (
                                     <li key={index}>
                                         <h3 className="font-semibold">
-                                            {data.position}
+                                            {data.position ?? ""}
                                         </h3>
                                         <p className="text-sm text-gray-500">
-                                            {data.company} | {data.period}
+                                            {data.company ?? ""} | {data.period ?? ""}
                                         </p>
                                     </li>
                                 ),
@@ -45,8 +55,11 @@ export default function TeamMemberPage({ item }: Props) {
                     }
                     </ul>
                 </CardContent>
+                ): (<div/>) }
             </Card>
         </TabsContent>
+        
+        
         <TabsContent value="education">
             <Card>
                 <CardHeader>
@@ -55,10 +68,11 @@ export default function TeamMemberPage({ item }: Props) {
                         Education
                     </CardTitle>
                 </CardHeader>
+                { item.data.experience ? (
                 <CardContent>
                     <ul className="space-y-4">
                     {
-                        item.data.education.map(
+                        item.data.education?.map(
                                 (data, index) => (
                                     <li key={index}>
                                         <h3 className="font-semibold">
@@ -73,8 +87,11 @@ export default function TeamMemberPage({ item }: Props) {
                     }
                     </ul>
                 </CardContent>
+                ): (<div/>) }
             </Card>
         </TabsContent>
+        
+        
         <TabsContent value="projects">
             <Card>
                 <CardHeader>
@@ -83,10 +100,11 @@ export default function TeamMemberPage({ item }: Props) {
                         Projects
                     </CardTitle>
                 </CardHeader>
+                { item.data.experience ? (
                 <CardContent>
                     <ul className="space-y-4">
                     {
-                        item.data.projects.map(
+                        item.data.projects?.map(
                                 (data, index) => (
                                     <li key={index}>
                                         <h3 className="font-semibold">
@@ -101,9 +119,11 @@ export default function TeamMemberPage({ item }: Props) {
                     }
                     </ul>
                 </CardContent>
+        ): (<div/>) }
+
             </Card>
         </TabsContent>
-        <TabsContent value="awards">
+        <TabsContent value="awards" >
             <Card>
                 <CardHeader>
                     <CardTitle className="flex items-center">
@@ -111,10 +131,13 @@ export default function TeamMemberPage({ item }: Props) {
                         Awards and Honors
                     </CardTitle>
                 </CardHeader>
+        { item.data.experience ? (
+
                 <CardContent>
+
                     <ul className="space-y-4">
                     {
-                        item.data.awards.map(
+                        item.data.awards?.map(
                                 (data, index) => (
                                     <li key={index}>
                                         <h3 className="font-semibold">
@@ -129,6 +152,8 @@ export default function TeamMemberPage({ item }: Props) {
                     }
                     </ul>
                 </CardContent>
+        ): (<div/>) }
+
             </Card>
         </TabsContent>
     </Tabs>

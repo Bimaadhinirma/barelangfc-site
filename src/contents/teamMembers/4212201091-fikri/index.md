@@ -4,6 +4,7 @@ name: "Muhammad Fikri"
 role: "Member"
 angkatan: 2023-01-01
 division: "Mechanical"
+prodi: "gatau"
 bio: "Be a True Mecanic"
 status: "Deactive"
 image: "/fikri.png"

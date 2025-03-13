@@ -4,39 +4,44 @@ name: "Choirul Prayoga"
 role: "Member"
 angkatan: 2023-01-01
 division: "Programming"
-bio: "Keep Spirits!"
+prodi: "Teknik Mekatronika"
+bio: "yang nulis kata-kata sok asik."
 status: "Active"
 image: "/choy.jpg"
 education: 
-  - degree: "Ph.D. in Computer Science"
-    institution: "Stanford University"
-    year: "2009"
+  - degree: "D4"
+    institution: "Politeknik Negeri Batam"
+    year: "2022-2026"
+
 experience:
-  - position: "Director of AI & Machine Learning"
-    company: "RoboOrg"
-    period: "2018 - Present"
+  - position: "Ustadz"
+    company: "Gontor"
+    period: ""
 
 projects:
-  - name: "Human-Robot Collaboration Framework"
+  - name: "CIM Conveyor"
     description:
-        "Created an AI-driven framework for seamless interaction between humans and robots in shared workspaces."
+        ""
+  - name: "Humanoid Robot Soccer"
+    description:
+        ""
 
 awards:
   - name: "Mahasiswa Berprestasi"
     organization: "Politeknik Negeri Batam"
     year: "2024"
 
-  - name: "3rd Winner RoboCup Humanoid League KidSize"
-    organization: "International RoboCup"
+  - name: "3rd Winner RoboCup Humanoid League KidSize - Netherlands"
+    organization: "RoboCup Federation"
     year: "2024"
 
-  - name: "3rd Winner RoboCup Humanoid League KidSize Technical Challenge"
-    organization: "International RoboCup"
+  - name: "3rd Winner RoboCup Humanoid League KidSize Technical Challenge - Netherlands"
+    organization: "RoboCup Federation"
     year: "2024"
 
 contact:
-    email: "mailto:emily.chen@roboorg.com"
-    linkedin: "https://www.linkedin.com/in/emilychen"
-    instagram: "@EmilyRobotics"
-    github: "https://github.com/emilychen"
+    email: "mailto:choiprayoga003@gmail.com"
+    linkedin: "www.linkedin.com/in/choirul-prayoga-598393320"
+    instagram: "https://instagram.com/choy_013"
+    github: "https://github.com/choirulprayoga"
 ---

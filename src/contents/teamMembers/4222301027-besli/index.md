@@ -4,6 +4,7 @@ name: "Besli Saut Marito Pakpahan"
 role: "Member"
 angkatan: 2024-01-01
 division: "Programming"
+prodi: "Teknik Robotika"
 bio: "Siap, Santai Aja"
 status: "Active"
 image: "/besli.jpg"

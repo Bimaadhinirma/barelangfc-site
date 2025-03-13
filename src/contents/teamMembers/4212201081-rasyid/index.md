@@ -4,9 +4,10 @@ name: "Muhammad Syah Hari Arrasyd"
 role: "Member"
 angkatan: 2024-01-01
 division: "Programming"
+prodi: "Teknik Mekatronika"
 bio: "Good"
 status: "Active"
-image: "/rasyid.png"
+image: "/rasyid.jpg"
 education: 
   - degree: "Ph.D. in Computer Science"
     institution: "Stanford University"
