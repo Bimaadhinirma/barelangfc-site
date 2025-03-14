@@ -5,7 +5,7 @@ role: "Member"
 angkatan: 2023-01-01
 division: "Mechanical"
 prodi: "D4 Teknik Mekatronika"
-bio: "Be a True Mecanic"
+bio: "Nulla tenaci invia est via"
 status: "Deactive"
 image: "/fikri.png"
 education: 

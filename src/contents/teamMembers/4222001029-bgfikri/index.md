@@ -1,13 +1,13 @@
 ---
-nim: 4212101033
-name: "Leo Chandra Yulianto"
+nim: 4222001029
+name: "Abdillah Fikri"
 role: "Leader"
-angkatan: 2022-01-01
+angkatan: 2021-01-01
 division: "Programming"
-prodi: "D4 Teknik Mekatronika"
-bio: "AUDE ET VINCES"
+prodi: "D4 Teknik Robotika"
+bio: "Robotics Engineer | AI & IoT, Experienced in automation system development, and machine learning"
 status: "Deactive"
-image: "/leo.jpg"
+image: "/bgfikri.jpeg"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"
