@@ -18,7 +18,7 @@ export function PartnersSlider() {
           ref={containerRef}
           className="flex gap-15 animate-marquee"
           style={{
-            animation: "marquee 15s linear infinite",
+            animation: "marquee 30s linear infinite",
           }}
         >
           {partners.map((index) => (
@@ -39,6 +39,16 @@ export function PartnersSlider() {
               <img src={`/${index}?height=40&width=80`} alt={`Partner ${index}`} width={80} height={40} />
             </div>
           ))}
+
+           {/* Additional duplicates to ensure smoother loop */}
+           {partners.map((index) => (
+            <div
+              key={`duplicate-2-${index}`}
+              className="bg-transparent p-3 rounded-lg h-22 w-34 flex-shrink-0 flex items-center justify-center"
+            >
+              <img src={`/${index}?height=40&width=80`} alt={`Partner ${index}`} width={80} height={40} />
+            </div>
+          ))}
         </div>
       </div>
 
@@ -48,7 +58,7 @@ export function PartnersSlider() {
             transform: translateX(0);
           }
           100% {
-            transform: translateX(-50%);
+            transform: translateX(-200%);
           }     
         }
       `}</style>
