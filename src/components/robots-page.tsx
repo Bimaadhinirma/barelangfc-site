@@ -10,9 +10,9 @@ export default function RobotsPage({ item }: Props) {
 return (
     <div className="container py-12 md:py-16">
       <div className="space-y-4 text-center mb-10">
-        <h1 className="text-4xl font-bold">Our Projects</h1>
+        <h1 className="text-4xl font-bold">Our Robots</h1>
         <p className="text-xl text-gray-500 max-w-3xl mx-auto">
-          Explore our innovative robotics projects across all six divisions
+        Discover the evolution of our robots from 2016 to present, showcasing their growth and innovations through time
         </p>
       </div>
 
