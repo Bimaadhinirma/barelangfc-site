@@ -14,5 +14,5 @@ technologies:
   - "Sensor Integration"
   - "Embedded Systems"
   - "Real-time Data Processing"
-image: ./placeholder.svg
+image: ./1.jpg
 ---
