@@ -1,11 +1,11 @@
 ---
-title: "Robosoccer International - 2024"
+title: "RoboCup - 2024"
 date: 2024-07-23
 author: "Communications Team"
 category: "Competitions"
 excerpt:
     "POLIBATAM-Tim Robot Politeknik Negeri Batam berhasil menjadi juara 3 tingkat Internasional di ajang Robosoccer tahun 2024 yang di gelar di Belanda pada bulan Juli."
-image: ./robosoccer2024.jpg
+image: "./robosoccer2024.jpg"
 relatedArticles:
     - robocop-2023
 ---

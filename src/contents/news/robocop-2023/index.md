@@ -5,7 +5,7 @@ author: "Communications Team"
 category: "Competitions"
 excerpt:
     "POLIBATAM-Tim Barelang FC dari Politeknik Negeri Batam merupakan satu-satunya perwakilan Indonesia yang berpartisipasi pada RoboCup 2023 divisi Humanoid League KidSize Soccer Competition."
-image: ./robocop2023.jpg
+image: "./robocop2023.jpg"
 relatedArticles: 
     - robosoccer-2024
 ---
