@@ -30,7 +30,6 @@ export async function getStaticPaths({ paginate }: any) {
 const { page } = Astro.props as {
     page: Page;
 };
-console.log(page);
 const start = (page.currentPage - 1) * 1 + 1;
 const end = Math.min(start + page.data.length - 1, page.total);
 ---
