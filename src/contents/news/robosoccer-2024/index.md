@@ -55,3 +55,6 @@ Semoga dengan prestasi yang membanggakan di bidang Robosoccer atau pertandingan 
 <br/>
 <br/>
 Salam Polibatam
+<br/>
+<br/>
+#Polibatam #HumasKerjasamaPolibatam #Juara3Robosoccer2024 #TimRobotPolibatam #KampusPBL
