@@ -1,5 +1,5 @@
 ---
-nim: 4222201064
+nim: 4212401025
 name: "I Putu Angga Hanira Agraprana"
 role: "Member"
 angkatan: 2025-01-01
@@ -9,30 +9,47 @@ bio: "Don't tell people your dreams. Show them."
 status: "Active"
 image: "/angga.png"
 education: 
-  - degree: "Ph.D. in Computer Science"
-    institution: "Stanford University"
-    year: "2009"
+  - degree: "SMK - Software Engineering"
+    institution: "SMKN 7 BATAM"
+    year: "2021 - 2024"
+
 experience:
-  - position: "Director of AI & Machine Learning"
-    company: "RoboOrg"
-    period: "2018 - Present"
+  - position: "Praktik Kerja Lapangan BAPENDA Prov. Kepri - Asisten Admin Sosial Media & Pers"
+    company: "Badan Pendapatan Daerah Provinsi Kepulauan Riau"
+    period: "2024"
+
+  - position: "Dewan Kerja Ranting Batam Kota - Wakil Ketua"
+    company: "Kwartir Ranting Batam Kota"
+    period: "2022 - 2023"
+
+  - position: "Pramuka - Hubungan Masyarakat"
+    company: "SMKN 7 BATAM"
+    period: "2022 - 2024"
+
+  - position: "Paskibra - Pers Info"
+    company: "SMKN 7 BATAM"
+    period: "2022 - 2024"
 
 projects:
-  - name: "Human-Robot Collaboration Framework"
+  - name: "Project Based Learning MK232-01-1: Introduction to CIM Conveyor"
     description:
-        "Created an AI-driven framework for seamless interaction between humans and robots in shared workspaces."
+        "Create a conveyor in a system that can move in two directions and its speed can be adjusted using a control box panel."
 
 awards:
-  - name: "Mahasiswa Berprestasi"
-    organization: "Politeknik Negeri Batam"
+  - name: "Juara 1 UTSAWA DHARMAGITA tingkat Kota Batam 2021 kategori Membaca Sloka"
+    organization: "Kementrian Agama Kota Batam"
+    year: "2021"
+
+  - name: "Juara 1 UTSAWA DHARMAGITA tingkat Provinsi 2021 kategori Membaca Sloka"
+    organization: "Kementrian Agama Provinsi Kepulauan Riau"
+    year: "2021"
+
+  - name: "Juara 1 UTSAWA DHARMAGITA tingkat Kota Batam 2024 kategori Membaca Sloka"
+    organization: "Kementrian Agama Kota Batam"
     year: "2024"
 
-  - name: "3rd Winner RoboCup Humanoid League KidSize"
-    organization: "International RoboCup"
-    year: "2024"
-
-  - name: "3rd Winner RoboCup Humanoid League KidSize Technical Challenge"
-    organization: "International RoboCup"
+  - name: "Juara 1 UTSAWA DHARMAGITA tingkat Provinsi 2024 kategori Membaca Sloka"
+    organization: "Kementrian Agama Provinsi Kepulauan Riau"
     year: "2024"
 
 contact:
