@@ -6,7 +6,16 @@ export function PartnersSlider() {
   const containerRef = useRef<HTMLDivElement>(null)
 
   // Partners data
-  const partners = ["polibatam.png", "BFC.png", "barelang7.png", "barelang1.png", "barelang5.png", "barelang63.png", "barelangmarine.png", "barelangsky.png"]
+  const partners = [
+    { image: "polibatam.png", url: "https://www.polibatam.ac.id", name: "Politeknik Negeri Batam" },
+    { image: "BFC.png", url: "https://www.instagram.com/barelangfc.polibatam/", name: "Barelang FC" },
+    { image: "barelang7.png", url: "https://www.instagram.com/barelang7.polibatam/", name: "Barelang 7" },
+    { image: "barelang1.png", url: "https://www.instagram.com/barelangf1/", name: "Barelang 1" },
+    { image: "barelang5.png", url: "https://www.instagram.com/barelangv_polibatam/", name: "Barelang 5" },
+    { image: "barelang63.png", url: "https://www.instagram.com/barelang63/", name: "Barelang 63" },
+    { image: "barelangmarine.png", url: "https://www.instagram.com/barelang_mrt/", name: "Barelang Marine" },
+    { image: "barelangsky.png", url: "https://www.instagram.com/barelang_skyforce/", name: "Barelang Sky" }
+  ]
 
   return (
     <div className="mt-12 pt-8 border-t border-gray-800">
@@ -21,32 +30,38 @@ export function PartnersSlider() {
             animation: "marquee 30s linear infinite",
           }}
         >
-          {partners.map((index) => (
+          {partners.map((partner) => (
             <div
-              key={index}
+              key={partner.image}
               className="bg-transparent p-3 rounded-lg h-22 w-34 flex-shrink-0 flex items-center justify-center"
             >
-              <img src={`/${index}?height=40&width=80`} alt={`Partner ${index}`} width={80} height={40} />
+              <a href={partner.url} target="_blank" rel="noopener noreferrer" title={`Visit ${partner.name}`}>
+                <img src={`/${partner.image}?height=40&width=80`} alt={partner.name} width={80} height={40} />
+              </a>
             </div>
           ))}
 
           {/* Duplicate logos to create a seamless loop */}
-          {partners.map((index) => (
+          {partners.map((partner) => (
             <div
-              key={`duplicate-${index}`}
+              key={`duplicate-${partner.image}`}
               className="bg-transparent p-3 rounded-lg h-22 w-34 flex-shrink-0 flex items-center justify-center"
             >
-              <img src={`/${index}?height=40&width=80`} alt={`Partner ${index}`} width={80} height={40} />
+              <a href={partner.url} target="_blank" rel="noopener noreferrer" title={`Visit ${partner.name}`}>
+                <img src={`/${partner.image}?height=40&width=80`} alt={partner.name} width={80} height={40} />
+              </a>
             </div>
           ))}
 
            {/* Additional duplicates to ensure smoother loop */}
-           {partners.map((index) => (
+           {partners.map((partner) => (
             <div
-              key={`duplicate-2-${index}`}
+              key={`duplicate-2-${partner.image}`}
               className="bg-transparent p-3 rounded-lg h-22 w-34 flex-shrink-0 flex items-center justify-center"
             >
-              <img src={`/${index}?height=40&width=80`} alt={`Partner ${index}`} width={80} height={40} />
+              <a href={partner.url} target="_blank" rel="noopener noreferrer" title={`Visit ${partner.name}`}>
+                <img src={`/${partner.image}?height=40&width=80`} alt={partner.name} width={80} height={40} />
+              </a>
             </div>
           ))}
         </div>

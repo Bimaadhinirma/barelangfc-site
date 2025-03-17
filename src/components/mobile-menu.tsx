@@ -26,14 +26,11 @@ export default function MobileMenu() {
           <a href="/team" className="text-sm font-medium hover:text-amber-600">
             Team
           </a>
-          <a href="/news" className="text-sm font-medium hover:text-amber-600">
-            News
-          </a>
           <a href="/achievements" className="text-sm font-medium hover:text-amber-600">
             Achievements
           </a>
-          <a href="/competitions" className="text-sm font-medium hover:text-amber-600">
-            Competitions
+          <a href="/publications" className="text-sm font-medium hover:text-amber-600">
+            Publications
           </a>
             <Link href="/contact" className="mt-4 bg-amber-600 hover:bg-amber-500">Contact Us</Link>
         </nav>
