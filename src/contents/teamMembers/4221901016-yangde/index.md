@@ -1,13 +1,13 @@
 ---
-nim: 4222101042
-name: "Fahmi Fadillah"
+nim: 4221901016
+name: "Yang Delila Salsabila"
 role: "Member"
-angkatan: 2022-01-01
-division: "Mechanical"
+angkatan: 2020-01-01
+division: "Electrical"
 prodi: "D4 Teknik Robotika"
-bio: "Jadilah terang tanpa memadamkan cahaya orang lain"
+bio: "Yang Delila Salsabila is a skilled Robotics Engineer with expertise in Robotic & AI, Research and Development (RnD), electrical wiring and troubleshooting, mechanical design and programming. With a strong background, she specializes in creating innovative solutions for industrial in product, quality and process engineering. Passionate about developing efficient, cutting-edge solutions for modern electrical challenges., Yangde has contributed several automation projects, enhancing efficiency and precision in various industries. She holds a degree in Robotics Engineering and continuously explores advancements in smart grid technology and sustainable energy solutions. She has good adaptability, critical mindset, team spirit, and interpersonal also communication skills."
 status: "Deactive"
-image: "/fahmi.jpg"
+image: "/yangde.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

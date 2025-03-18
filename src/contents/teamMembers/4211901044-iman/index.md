@@ -1,13 +1,13 @@
 ---
-nim: 4222101042
-name: "Fahmi Fadillah"
-role: "Member"
-angkatan: 2022-01-01
-division: "Mechanical"
-prodi: "D4 Teknik Robotika"
-bio: "Jadilah terang tanpa memadamkan cahaya orang lain"
+nim: 4211901044
+name: "Iman Rofiq Syamsul"
+role: "Leader"
+angkatan: 2020-01-01
+division: "Programming"
+prodi: "D4 Teknik Mekatronika"
+bio: "Man Jadda Wajada"
 status: "Deactive"
-image: "/fahmi.jpg"
+image: "/iman.jpeg"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

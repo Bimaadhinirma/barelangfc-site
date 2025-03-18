@@ -1,13 +1,13 @@
 ---
-nim: 4222101042
-name: "Fahmi Fadillah"
+nim: 4242101048
+name: "Rayhan Gunawan"
 role: "Member"
 angkatan: 2022-01-01
-division: "Mechanical"
-prodi: "D4 Teknik Robotika"
-bio: "Jadilah terang tanpa memadamkan cahaya orang lain"
+division: "Programming"
+prodi: "D4 Teknologi Rekayasa Elektronika"
+bio: "Api melebur emas, derita membentuk manusia"
 status: "Deactive"
-image: "/fahmi.jpg"
+image: "/rayhan.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

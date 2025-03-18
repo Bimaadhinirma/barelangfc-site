@@ -1,13 +1,13 @@
 ---
-nim: 4222101042
-name: "Fahmi Fadillah"
+nim: 4221801027
+name: "Julian Reza Erwandi "
 role: "Member"
-angkatan: 2022-01-01
-division: "Mechanical"
+angkatan: 2018-01-01
+division: "Programming"
 prodi: "D4 Teknik Robotika"
-bio: "Jadilah terang tanpa memadamkan cahaya orang lain"
+bio: "أوهايوقزايمس"
 status: "Deactive"
-image: "/fahmi.jpg"
+image: "/julian.jpg"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

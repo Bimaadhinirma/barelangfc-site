@@ -1,13 +1,13 @@
 ---
-nim: 4222101042
-name: "Fahmi Fadillah"
+nim: 4122301003
+name: "Bintang"
 role: "Member"
-angkatan: 2022-01-01
-division: "Mechanical"
-prodi: "D4 Teknik Robotika"
-bio: "Jadilah terang tanpa memadamkan cahaya orang lain"
+angkatan: 2024-01-01
+division: "Official"
+prodi: "D4 Administrasi Bisnis Terapan"
+bio: "Enough"
 status: "Deactive"
-image: "/fahmi.jpg"
+image: "/bintang.jpeg"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

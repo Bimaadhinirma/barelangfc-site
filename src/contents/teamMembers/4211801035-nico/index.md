@@ -1,13 +1,13 @@
 ---
-nim: 4222101042
-name: "Fahmi Fadillah"
-role: "Member"
-angkatan: 2022-01-01
+nim: 4211801035
+name: "Nico Breygin"
+role: "Leader"
+angkatan: 2018-01-01
 division: "Mechanical"
-prodi: "D4 Teknik Robotika"
-bio: "Jadilah terang tanpa memadamkan cahaya orang lain"
+prodi: "D4 Teknik Mekatronika"
+bio: "Diberkati untuk menjadi berkat"
 status: "Deactive"
-image: "/fahmi.jpg"
+image: "/nico.jpg"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

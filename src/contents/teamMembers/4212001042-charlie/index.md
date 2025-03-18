@@ -1,13 +1,13 @@
 ---
-nim: 4222101042
-name: "Fahmi Fadillah"
+nim: 4212001042
+name: "Charlie Rolando Andrian Tamba"
 role: "Member"
-angkatan: 2022-01-01
-division: "Mechanical"
-prodi: "D4 Teknik Robotika"
-bio: "Jadilah terang tanpa memadamkan cahaya orang lain"
+angkatan: 2023-01-01
+division: "Programming"
+prodi: "D4 Teknik Mekatronika"
+bio: "Keep seeking your One Piece treasure"
 status: "Deactive"
-image: "/fahmi.jpg"
+image: "/charlie.jpg"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"
