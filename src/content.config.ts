@@ -80,8 +80,8 @@ const robot = defineCollection({
     })
 })
 
-const competition = defineCollection({
-    loader: glob({pattern: "**/*.md", base: "./src/contents/competitions-timeline"}),
+const publication = defineCollection({
+    loader: glob({pattern: "**/*.md", base: "./src/contents/publications"}),
     schema: ({image}) => z.object({
         title: z.string(),
         date: z.date(),
@@ -152,4 +152,4 @@ const subject = defineCollection({
 });
 
 
-export const collections = {teamMember, achievement, division, robot, competition, news: news, contacts, lecturer, subject};
+export const collections = {teamMember, achievement, division, robot, publication, news: news, contacts, lecturer, subject};
