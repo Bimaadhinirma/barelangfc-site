@@ -1,15 +1,15 @@
 ---
-nim: 3112201003
-name: "Aribah Febriyanti Zahara"
+nim: 4222411039
+name: "Muhammad Hazza"
 role: "Member"
-angkatan: 2023-01-01
-division: "Official"
-prodi: "D4 Administrasi Bisnis Terapan"
-bio: "Keep Going"
+angkatan: 2019-01-01
+division: "Mechanical"
+prodi: "D4 Teknik Robotika"
+bio: "dikisaputra43"
 status: "Deactive"
-image: "/aribah.jpeg"
+image: "/diki.jpg"
 education: 
-  - degree: "S.Tr.AB in D4 Teknik Robotika"
+  - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"
     year: "2023 - Present"
 

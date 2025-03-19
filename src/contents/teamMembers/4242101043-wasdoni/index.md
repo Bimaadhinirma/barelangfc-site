@@ -1,15 +1,15 @@
 ---
-nim: 3112201003
-name: "Aribah Febriyanti Zahara"
+nim: 4242101043
+name: "Wasdoni Alfi"
 role: "Member"
-angkatan: 2023-01-01
-division: "Official"
-prodi: "D4 Administrasi Bisnis Terapan"
-bio: "Keep Going"
+angkatan: 2022-01-01
+division: "Programming"
+prodi: "D4 Teknologi Rekayasa Elektronika"
+bio: "Engineering Student | Penikmat Keheningan"
 status: "Deactive"
-image: "/aribah.jpeg"
+image: "/wasdoni.jpeg"
 education: 
-  - degree: "S.Tr.AB in D4 Teknik Robotika"
+  - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"
     year: "2023 - Present"
 

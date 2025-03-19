@@ -1,18 +1,19 @@
 ---
-title: "Third Place at RoboCup International - French "
-title2: "Third Place RoboCup 2023"
-date: 2024-07-11
-competition: "International RoboCup 2023"
+title: "Third Place at RoboCup International - Eindhoven, Netherlands"
+title2: "Third Place RoboCup 2024"
+date: 2024-07-17
+date_end: 2024-07-21
+competition: "International RoboCup 2024"
 category: "Competition"
-description: "Barelang FC Team from Batam State Polytechnic is the only Indonesian representative participating in RoboCup 2023 Humanoid League KidSize Soccer Competition division."
+description: "Barelang FC Team from Batam State Polytechnic achieved a proud 3rd place in both the Kid-Size and Technical Challenge Categories at the international Robosoccer 2024 event in the Netherlands, showcasing Indonesia’s excellence in robot soccer."
 icon: "🥉"
-img: ./robocop2023.jpg
+img: ./robocup2024.jpg
 teamMember: 
+    - 4212101033-leo
     - 4212201042-dimas
     - 4212201037-yohanes
     - 4212201004-choy
     - 4212201010-dani
-    - 4212101033-leo
     - 4212301088-zaky
     - 4222301005-shidiq
     

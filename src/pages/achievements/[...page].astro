@@ -28,7 +28,6 @@ export async function getStaticPaths({ paginate }: any) {
 const { page } = Astro.props as {
   page: Page;
 };
-console.log(page);
 const start = (page.currentPage - 1) * 1 + 1;
 const end = Math.min(start + page.data.length - 1, page.total);
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
@@ -68,7 +67,7 @@ const end = Math.min(start + page.data.length - 1, page.total);
             <CardContent className="flex-grow p-4">
               <div class="flex items-center gap-2 text-sm text-gray-500 mb-2">
                 <Calendar className="h-4 w-4" />
-                <span>{data.date.toDateString()}</span>
+                <span>{data.date.toDateString()} - {data.date_end.toDateString()}</span>
               </div>
               <h3 class="font-bold text-lg mb-2">{data.title}</h3>
               <p class="text-sm text-gray-600 line-clamp-3">

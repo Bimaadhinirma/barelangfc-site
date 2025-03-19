@@ -51,7 +51,7 @@ const members = data.teamMember.map((item) => {
           <div class="flex items-center gap-4 text-gray-500">
             <div class="flex items-center gap-1">
               <Calendar className="h-4 w-4" />
-              <span>{data.date.toDateString()}</span>
+              <span>{data.date.toDateString()} - {data.date_end.toDateString()}</span>
             </div>
             <div class="flex items-center gap-1">
               <span>{data.icon} {data.title2}</span>

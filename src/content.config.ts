@@ -47,6 +47,7 @@ const achievement = defineCollection({
         title: z.string(),
         title2: z.string(),
         date: z.date(),
+        date_end: z.date(),
         competition: z.string(),
         category: z.string(),
         description: z.string(),

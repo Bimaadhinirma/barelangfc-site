@@ -1,7 +1,8 @@
 ---
-title: "Third Place at RoboCup International - French "
+title: "Third Place at RoboCup International - Bordeaux, France "
 title2: "Third Place RoboCup 2023"
-date: 2023-07-11
+date: 2023-07-04
+date_end: 2023-07-10
 competition: "International RoboCup 2023"
 category: "Competition"
 description: "Barelang FC Team from Batam State Polytechnic is the only Indonesian representative participating in RoboCup 2023 Humanoid League KidSize Soccer Competition division."
@@ -55,4 +56,4 @@ We, the entire academic community of Polibatam campus, congratulate the impressi
 Regards from Polibatam #Polibatam #HumasPolibatam #Achievement #CampusPBL
 <br/>
 <br/>
-[source : (https://www.instagram.com/polibatamofficial/)]
+[source : (https://www.instagram.com/p/CugvbLmvTJ6/?img_index=1)]
