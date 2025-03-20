@@ -2,7 +2,7 @@
 title: "Third Place at Kontes Robot Indonesia - Surakarta, Indonesia "
 title2: "Third Place Kontes Robot Indonesia 2024"
 date: 2024-07-01
-date_end: 2017-07-06
+date_end: 2024-07-06
 competition: "Kontes Robot Indonesia 2024"
 category: "Competition"
 description: "Barelang FC Team from Batam State Polytechnic secured 3rd place at the 2024 Indonesian Robot Contest (KRI) in Surakarta, demonstrating Indonesia’s excellence in robotics innovation and robot soccer competition."
