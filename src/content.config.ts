@@ -152,5 +152,15 @@ const subject = defineCollection({
     })
 });
 
+const album = defineCollection({
+    loader: glob({pattern: "**/*.md", base: "./src/contents/albums"}),
+    schema: ({image}) => z.object({
+        title: z.string(),
+        date: z.date(),
+        location: z.string(),
+        cover: image(),
+        contents: z.array(image())
+    })
+});
 
-export const collections = {teamMember, achievement, division, robot, publication, news: news, contacts, lecturer, subject};
+export const collections = {teamMember, achievement, division, robot, publication, news: news, contacts, lecturer, subject, album};
