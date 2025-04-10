@@ -5,6 +5,7 @@ import Instagram from "@/components/icons/Instagram.astro";
 import LinkedIn from "@/components/icons/LinkedIn.astro";
 import Youtube from "@/components/icons/Youtube.astro";
 import { Link } from "@/components/link";
+import ParticlesBackground from "@/components/ParticlesBackground.astro";
 import { PartnersSlider } from "@/components/partners-slider";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -25,6 +26,7 @@ const contacts = await getCollection("contacts");
 ---
 
 <footer class="bg-gray-900 text-gray-300">
+  <ParticlesBackground />
   <div class="container px-4 py-12 md:py-16">
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
       <div class="space-y-4">
@@ -126,7 +128,7 @@ const contacts = await getCollection("contacts");
         <a href="https://hasanfirdaus.com">&copy;</a> <a href="https://instagram.com/bimaadinirma">{new Date().getFullYear()}</a> BarelangFC. All rights reserved.
       </p>
       <div class="flex gap-4 mt-4 md:mt-0 text-sm">
-        <a href="mailto:barelangfc@gmail.com" class="hover:text-white">
+        <a href="/contact" class="hover:text-white">
           Contact Us
         </a>
       </div>
