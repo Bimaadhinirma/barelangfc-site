@@ -7,7 +7,7 @@ division: "Electrical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Gratitude changes brain"
 status: "Active"
-image: "/pretty.jpg"
+image: "/pretty.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

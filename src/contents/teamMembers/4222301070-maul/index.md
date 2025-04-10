@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "Yang bilang sok asik ga usah temenin"
 status: "Active"
-image: "/maul.jpg"
+image: "/maul.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

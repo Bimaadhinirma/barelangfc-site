@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "No Game No Life"
 status: "Active"
-image: "/dani.jpg"
+image: "/dani.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Mekatronika"
     institution: "Batam State Polytechnics"

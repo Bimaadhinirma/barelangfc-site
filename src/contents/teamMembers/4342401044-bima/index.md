@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "D4 Teknologi Rekayasa Perangkat Lunak"
 bio: "Simple."
 status: "Active"
-image: "/bima.jpeg"
+image: "/bima.png"
 education: 
   - degree: "S.Tr.Kom Software Engineering"
     institution: "Batam State Polytechnics"

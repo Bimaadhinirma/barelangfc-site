@@ -7,7 +7,7 @@ division: "Electrical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Child of God ✝️"
 status: "Active"
-image: "/yohanes.jpeg"
+image: "/yohanes.png"
 education: 
   - degree: "Ph.D. in Computer Science"
     institution: "Stanford University"

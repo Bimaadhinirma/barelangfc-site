@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "Teknik Mekatronika"
 bio: "Hidup tidak menjadi lebih baik secara kebetulan, tetapi melalui perubahan"
 status: "Active"
-image: "/rasyid.jpg"
+image: "/rasyid.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Mekatronika"
     institution: "Batam State Polytechnics"

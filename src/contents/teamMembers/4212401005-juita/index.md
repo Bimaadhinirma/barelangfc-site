@@ -7,7 +7,7 @@ division: "Electrical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Every innovation starts with a spark of curiosity"
 status: "Active"
-image: "/juita.jpg"
+image: "/juita.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

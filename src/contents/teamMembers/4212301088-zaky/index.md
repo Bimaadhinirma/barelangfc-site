@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "Teknik Mekatronika"
 bio: "Nothing is Impossible"
 status: "Active"
-image: "/zaky.jpg"
+image: "/zaky.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Mekatronika"
     institution: "Batam State Polytechnics"

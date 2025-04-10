@@ -7,7 +7,7 @@ division: "Mechanical"
 prodi: "D4 Teknik Robotika"
 bio: "Robotics Engineering Program Students"
 status: "Active"
-image: "/shidiq.jpg"
+image: "/shidiq.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

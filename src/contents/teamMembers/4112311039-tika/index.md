@@ -7,7 +7,7 @@ division: "Official"
 prodi: "D4 Akuntansi Manajerial"
 bio: "Success is not about the destination, it's about the journey"
 status: "Active"
-image: "/tika.jpeg"
+image: "/tika.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

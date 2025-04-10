@@ -7,7 +7,7 @@ division: "Mechanical"
 prodi: "D4 Teknik Robotika"
 bio: "Veni Vidi Vici"
 status: "Active"
-image: "/dedek.jpg"
+image: "/dedek.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

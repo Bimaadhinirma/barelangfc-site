@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "Barelang FC Student"
 status: "Active"
-image: "/akbar.jpeg"
+image: "/akbar.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

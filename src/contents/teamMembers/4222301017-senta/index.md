@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "Robotics addict"
 status: "Active"
-image: "/senta.jpg"
+image: "/senta.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

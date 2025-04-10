@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "Life doesn't present anything for eveyone without workhard, just win or learn and no matter what"
 status: "Active"
-image: "/kayla.jpg"
+image: "/kayla.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

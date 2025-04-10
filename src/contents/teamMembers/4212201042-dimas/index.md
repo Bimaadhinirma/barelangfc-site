@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "Move through it, not against it."
 status: "Active"
-image: "/dimas.jpeg"
+image: "/dimas.png"
 education: 
   - degree: "SMA - IPA"
     institution: "MAN 1 BATAM"

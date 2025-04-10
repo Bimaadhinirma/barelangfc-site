@@ -7,7 +7,7 @@ division: "Mechanical"
 prodi: "D4 Teknik Robotika"
 bio: "Sedang Sibuk!"
 status: "Active"
-image: "/hazza.jpg"
+image: "/hazza.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"

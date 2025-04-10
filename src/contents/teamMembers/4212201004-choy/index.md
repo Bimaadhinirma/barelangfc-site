@@ -7,7 +7,7 @@ division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "yang nulis kata-kata sok asik."
 status: "Active"
-image: "/choy.jpg"
+image: "/choy.png"
 education: 
   - degree: "D4"
     institution: "Politeknik Negeri Batam"

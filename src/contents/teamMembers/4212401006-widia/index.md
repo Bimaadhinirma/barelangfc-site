@@ -7,7 +7,7 @@ division: "Electrical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Rare"
 status: "Active"
-image: "/widia.jpeg"
+image: "/widia.png"
 education: 
   - degree: "S.Tr.T in D4 Teknik Robotika"
     institution: "Batam State Polytechnics"
