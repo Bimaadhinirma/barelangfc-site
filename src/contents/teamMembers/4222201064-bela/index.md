@@ -2,7 +2,7 @@
 nim: 4222201064
 name: "Bela Lisfatia"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Electrical"
 prodi: "Teknik Robotika"
 bio: "Student College"

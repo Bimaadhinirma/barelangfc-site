@@ -2,7 +2,7 @@
 nim: 4212101059
 name: "Widya Ayu Surya Putri"
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "If there's a will there's a way"

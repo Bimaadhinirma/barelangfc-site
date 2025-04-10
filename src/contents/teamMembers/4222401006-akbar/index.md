@@ -2,7 +2,7 @@
 nim: 4222401006
 name: "Muhammad Akbar Iqvi"
 role: "Member"
-angkatan: 2025-01-01
+angkatan: 2025-01-02
 division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "Barelang FC Student"

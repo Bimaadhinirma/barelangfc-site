@@ -2,7 +2,7 @@
 nim: 4122301003
 name: "Bintang"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Official"
 prodi: "D4 Administrasi Bisnis Terapan"
 bio: "Enough"

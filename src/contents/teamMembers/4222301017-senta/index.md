@@ -2,7 +2,7 @@
 nim: 4222301017
 name: "Senta Fito Situmorang"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "Robotics addict"

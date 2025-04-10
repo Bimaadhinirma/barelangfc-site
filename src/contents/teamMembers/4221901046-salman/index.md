@@ -2,7 +2,7 @@
 nim: 4221901016
 name: "Salman Alfarisi"
 role: "Member"
-angkatan: 2020-01-01
+angkatan: 2020-01-02
 division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "Begin with bismillah, and finished with alhamdulillah "

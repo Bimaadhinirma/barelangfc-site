@@ -2,7 +2,7 @@
 nim: 4211801035
 name: "Nico Breygin"
 role: "Leader"
-angkatan: 2018-01-01
+angkatan: 2018-01-02
 division: "Mechanical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Diberkati untuk menjadi berkat"

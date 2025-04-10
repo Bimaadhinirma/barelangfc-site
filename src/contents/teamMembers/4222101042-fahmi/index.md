@@ -2,7 +2,7 @@
 nim: 4222101042
 name: "Fahmi Fadillah"
 role: "Member"
-angkatan: 2022-01-01
+angkatan: 2022-01-02
 division: "Mechanical"
 prodi: "D4 Teknik Robotika"
 bio: "Jadilah terang tanpa memadamkan cahaya orang lain"

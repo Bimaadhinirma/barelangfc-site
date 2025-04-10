@@ -2,7 +2,7 @@
 nim: 4212201010
 name: "Dani Muti Aziz"
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "No Game No Life"

@@ -2,7 +2,7 @@
 nim: 4112311039
 name: "Sartika Dian Agustina S"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Official"
 prodi: "D4 Akuntansi Manajerial"
 bio: "Success is not about the destination, it's about the journey"

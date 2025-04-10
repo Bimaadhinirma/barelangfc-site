@@ -2,7 +2,7 @@
 nim: 4212101087
 name: "Adimas Ariefrahman"
 role: "Member"
-angkatan: 2022-01-01
+angkatan: 2022-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "Engineers Turn Dreams Into Reality "

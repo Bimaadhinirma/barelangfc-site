@@ -2,7 +2,7 @@
 nim: 4222301027
 name: "Besli Saut Marito Pakpahan"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Programming"
 prodi: "Teknik Robotika"
 bio: "Siap, Santai Aja"

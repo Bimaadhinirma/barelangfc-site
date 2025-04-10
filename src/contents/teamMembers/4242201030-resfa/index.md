@@ -2,7 +2,7 @@
 nim: 4242201030
 name: "Resfa Dwi Saputra"
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Programming"
 prodi: "D4 Teknologi Rekayasa Elektronika"
 bio: "Ar-Rum : 60"

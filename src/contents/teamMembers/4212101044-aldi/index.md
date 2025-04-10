@@ -2,7 +2,7 @@
 nim: 4212101044
 name: "Aldi Wahyudi"
 role: "Member"
-angkatan: 2022-01-01
+angkatan: 2022-01-02
 division: "Mechanical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Tetap la terus mencoba dan belajar"

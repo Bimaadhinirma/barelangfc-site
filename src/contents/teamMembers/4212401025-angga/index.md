@@ -2,7 +2,7 @@
 nim: 4212401025
 name: "I Putu Angga Hanira Agraprana"
 role: "Member"
-angkatan: 2025-01-01
+angkatan: 2025-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "Don't tell people your dreams. Show them."

@@ -2,7 +2,7 @@
 nim: 4122101022
 name: "Feny Rafidah "
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Official"
 prodi: "D4 Administrasi Bisnis Terapan"
 bio: "Be Brave Enough to Heal Yourself"

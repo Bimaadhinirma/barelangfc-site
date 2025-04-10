@@ -2,7 +2,7 @@
 nim: 4222101033
 name: "Andi Ninoi Kazuyuki Darusman"
 role: "Member"
-angkatan: 2022-01-01
+angkatan: 2022-01-02
 division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "Embrace the journey, for every step shapes your destiny"

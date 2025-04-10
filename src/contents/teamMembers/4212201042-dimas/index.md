@@ -2,7 +2,7 @@
 nim: 4212201042
 name: "Dimas Rizky Saputra"
 role: "Leader"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "Move through it, not against it."

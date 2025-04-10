@@ -2,7 +2,7 @@
 nim: 4212301051
 name: "Kayla Nadine Hafizsyah"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "Life doesn't present anything for eveyone without workhard, just win or learn and no matter what"

@@ -2,7 +2,7 @@
 nim: 4212301088
 name: "Zaky Askar Sonia"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Programming"
 prodi: "Teknik Mekatronika"
 bio: "Nothing is Impossible"

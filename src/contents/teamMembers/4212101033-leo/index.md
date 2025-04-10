@@ -2,7 +2,7 @@
 nim: 4212101033
 name: "Leo Chandra Yulianto"
 role: "Leader"
-angkatan: 2022-01-01
+angkatan: 2022-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "AUDE ET VINCES"

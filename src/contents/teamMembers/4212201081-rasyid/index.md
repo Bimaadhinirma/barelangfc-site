@@ -2,7 +2,7 @@
 nim: 4212201081
 name: "Muhammad Syah Hari Arrasyd"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Programming"
 prodi: "Teknik Mekatronika"
 bio: "Hidup tidak menjadi lebih baik secara kebetulan, tetapi melalui perubahan"

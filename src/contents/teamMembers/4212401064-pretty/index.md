@@ -2,7 +2,7 @@
 nim: 4212401064
 name: "Pretty Parathnya Angli"
 role: "Member"
-angkatan: 2025-01-01
+angkatan: 2025-01-02
 division: "Electrical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Gratitude changes brain"

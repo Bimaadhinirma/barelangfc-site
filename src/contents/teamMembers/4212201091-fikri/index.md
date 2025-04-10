@@ -2,7 +2,7 @@
 nim: 4212201091
 name: "Muhammad Fikri"
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Mechanical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Nulla tenaci invia est via"

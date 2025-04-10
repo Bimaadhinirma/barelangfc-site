@@ -2,7 +2,7 @@
 nim: 4222301070
 name: "Valdhy Maulana Alzikri"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "Yang bilang sok asik ga usah temenin"

@@ -2,7 +2,7 @@
 nim: 3112201003
 name: "Aribah Febriyanti Zahara"
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Official"
 prodi: "D4 Administrasi Bisnis Terapan"
 bio: "Keep Going"

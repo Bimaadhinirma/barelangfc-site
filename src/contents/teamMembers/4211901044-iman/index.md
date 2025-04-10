@@ -2,7 +2,7 @@
 nim: 4211901044
 name: "Iman Rofiq Syamsul"
 role: "Leader"
-angkatan: 2020-01-01
+angkatan: 2020-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "Man Jadda Wajada"

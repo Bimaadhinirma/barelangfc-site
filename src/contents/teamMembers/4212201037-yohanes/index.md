@@ -2,7 +2,7 @@
 nim: 4212201037
 name: "Yohanes Hasintongan Manullang"
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Electrical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Child of God ✝️"

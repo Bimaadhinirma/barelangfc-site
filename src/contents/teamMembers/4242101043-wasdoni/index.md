@@ -2,7 +2,7 @@
 nim: 4242101043
 name: "Wasdoni Alfi"
 role: "Member"
-angkatan: 2022-01-01
+angkatan: 2022-01-02
 division: "Programming"
 prodi: "D4 Teknologi Rekayasa Elektronika"
 bio: "Engineering Student | Penikmat Keheningan"

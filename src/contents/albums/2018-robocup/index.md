@@ -8,8 +8,8 @@ contents:
   - ./1.JPG
   - ./2.JPG
   - ./3.JPG
-  - ./4.JPG
-  - ./5.JPG
+  - ./4.jpg
+  - ./5.jpg
   - ./6.JPG
   - ./7.JPG
   - ./8.JPG

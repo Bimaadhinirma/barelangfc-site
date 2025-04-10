@@ -2,7 +2,7 @@
 nim: 4212001042
 name: "Charlie Rolando Andrian Tamba"
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "Keep seeking your One Piece treasure"

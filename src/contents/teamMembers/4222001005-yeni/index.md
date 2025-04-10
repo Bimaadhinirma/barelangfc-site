@@ -2,7 +2,7 @@
 nim: 4222001005
 name: "Yeni Aryani"
 role: "Member"
-angkatan: 2021-01-01
+angkatan: 2021-01-02
 division: "Electrical"
 prodi: "D4 Teknik Robotika"
 bio: "Simple"

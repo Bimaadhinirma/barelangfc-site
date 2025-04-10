@@ -2,7 +2,7 @@
 nim: 4212201032
 name: "Muhammad Rezky Fatya"
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Electrical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Be Yourself"

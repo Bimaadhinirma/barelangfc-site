@@ -2,7 +2,7 @@
 nim: 4221801027
 name: "Julian Reza Erwandi "
 role: "Member"
-angkatan: 2018-01-01
+angkatan: 2018-01-02
 division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "أوهايوقزايمس"

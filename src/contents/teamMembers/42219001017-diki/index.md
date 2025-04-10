@@ -2,7 +2,7 @@
 nim: 4222411039
 name: "Muhammad Hazza"
 role: "Member"
-angkatan: 2019-01-01
+angkatan: 2019-01-02
 division: "Mechanical"
 prodi: "D4 Teknik Robotika"
 bio: "dikisaputra43"

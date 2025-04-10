@@ -2,7 +2,7 @@
 nim: 4242101048
 name: "Rayhan Gunawan"
 role: "Member"
-angkatan: 2022-01-01
+angkatan: 2022-01-02
 division: "Programming"
 prodi: "D4 Teknologi Rekayasa Elektronika"
 bio: "Api melebur emas, derita membentuk manusia"

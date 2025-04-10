@@ -2,7 +2,7 @@
 nim: 4212201004
 name: "Choirul Prayoga"
 role: "Member"
-angkatan: 2023-01-01
+angkatan: 2023-01-02
 division: "Programming"
 prodi: "D4 Teknik Mekatronika"
 bio: "yang nulis kata-kata sok asik."

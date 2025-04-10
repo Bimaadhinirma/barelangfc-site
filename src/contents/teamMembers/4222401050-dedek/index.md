@@ -2,7 +2,7 @@
 nim: 4222401050
 name: "Dedek Mulyadi"
 role: "Member"
-angkatan: 2025-01-01
+angkatan: 2025-01-02
 division: "Mechanical"
 prodi: "D4 Teknik Robotika"
 bio: "Veni Vidi Vici"

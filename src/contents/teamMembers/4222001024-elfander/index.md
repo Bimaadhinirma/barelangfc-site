@@ -2,7 +2,7 @@
 nim: 4222001024
 name: "M. Wahyu Elfander"
 role: "Member"
-angkatan: 2021-01-01
+angkatan: 2021-01-02
 division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "if (she.likesMemes) keepHer(); else debugHer();"

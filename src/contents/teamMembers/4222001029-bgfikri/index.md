@@ -2,7 +2,7 @@
 nim: 4222001029
 name: "Abdillah Fikri"
 role: "Leader"
-angkatan: 2021-01-01
+angkatan: 2021-01-02
 division: "Programming"
 prodi: "D4 Teknik Robotika"
 bio: "Robotics Engineer | AI & IoT, Experienced in automation system development, and machine learning"

@@ -2,7 +2,7 @@
 nim: 4222301005
 name: "Abdullah Shidiq Eka Putra"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Mechanical"
 prodi: "D4 Teknik Robotika"
 bio: "Robotics Engineering Program Students"

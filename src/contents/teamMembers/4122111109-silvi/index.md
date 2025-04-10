@@ -2,7 +2,7 @@
 nim: 4122111109
 name: "Silvia Nurmiati"
 role: "Member"
-angkatan: 2024-01-01
+angkatan: 2024-01-02
 division: "Official"
 prodi: "D4 Administrasi Bisnis Terapan"
 bio: "Adulting level: buffering…"

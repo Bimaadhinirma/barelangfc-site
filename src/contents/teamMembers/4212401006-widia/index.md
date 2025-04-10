@@ -2,7 +2,7 @@
 nim: 4212401006
 name: "Widia Sari Ritonga"
 role: "Member"
-angkatan: 2025-01-01
+angkatan: 2025-01-02
 division: "Electrical"
 prodi: "D4 Teknik Mekatronika"
 bio: "Rare"
