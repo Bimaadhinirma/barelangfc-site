@@ -38,6 +38,7 @@ const yearsNews = news.map((news) => news.data.date.getFullYear());
 const yearsUniqueNews = yearsNews.filter((value, index, array) => array.indexOf(value) === index);
 const latestNews = news.slice(0, 3);
 import ParticlesBackground from "../components/ParticlesBackground.astro";
+import RobotSoccerPlayer from '@/components/RobotSoccerPlayer.astro';
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
@@ -57,7 +58,7 @@ import ParticlesBackground from "../components/ParticlesBackground.astro";
 				<p class="max-w-[600px] text-gray-300 md:text-xl">
 				  This is a humanoid robot research team
 				</p>
-				<div class="flex flex-col gap-2 min-[400px]:flex-row">
+				<!-- <div class="flex flex-col gap-2 min-[400px]:flex-row">
 					<Link className="bg-amber-600 hover:bg-amber-500" size="lg" href="/robots">
 					  Explore Our Robots <ArrowRight className="ml-2 h-4 w-4" />
 					</Link>
@@ -68,7 +69,8 @@ import ParticlesBackground from "../components/ParticlesBackground.astro";
 				  >
 					<a href="/divisions">Our Divisions</a>
 				  </Button>
-				</div>
+
+				</div> -->
 			  </div>
 			  <div class="relative h-[300px] lg:h-[400px] rounded-xl overflow-hidden">
 				<img

@@ -1,4 +1,5 @@
 ---
+import RobotSoccerPlayer from "@/components/RobotSoccerPlayer.astro";
 import "../assets/global.css";
 import Footer from "./Footer.astro";
 import Header from "./Header.astro";
@@ -18,6 +19,7 @@ import "@fontsource-variable/inter";
 	<body>
 		<div class="flex flex-col min-h-screen">
 			<Header />
+			<RobotSoccerPlayer />
 			<main class="flex-1"><slot /></main>
 			<Footer />
 		</div>
