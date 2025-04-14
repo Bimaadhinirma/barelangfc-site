@@ -88,6 +88,7 @@ const publication = defineCollection({
         date: z.date(),
         location: z.string(),
         description: z.string(),
+        link: z.string(),
     })
 })
 

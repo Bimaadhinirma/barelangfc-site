@@ -1,5 +1,5 @@
 ---
-import { Calendar } from "lucide-react";
+import { ArrowRight, Calendar } from "lucide-react";
 import Layout from "../../layouts/Layout.astro";
 import { getCollection } from "astro:content";
 const publications = await getCollection("publication");
@@ -34,7 +34,14 @@ publications.sort(function(a,b){
                     <span>{publication.data.location}</span>
                   </div>
                   <p class="text-gray-600">{publication.data.description}</p>
+                  <a
+                    href={`${publication.data.link}`}
+                    class="text-amber-600 mt-4 inline-flex items-center"
+                  >
+                    Learn more <ArrowRight className="ml-1 h-4 w-4" />
+                  </a>
                 </div>
+                
               </div>
             ))}
           </div>

@@ -1,6 +1,7 @@
 ---
-title: "Gemastik 2025"
-date: 2025-04-01
-location: "Surabaya, Indonesia"
-description: "Competing in multiple categories with our latest robotic systems."
+title: "A Control Strategy to Estimate the Robot Position Of Barelang-FC Striker"
+date: 2019-03-02
+location: "Batam, Indonesia"
+description: "This paper presents a control strategy to move its body to the ball position before kick the ball for the humanoid robot soccer called Barelang-FC."
+link: https://ieeexplore.ieee.org/document/9221736
 ---
