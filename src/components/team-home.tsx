@@ -33,7 +33,7 @@ export default function TeamSection({ item }: Props) {
                               key={index}
                               className="flex flex-col items-center p-4 bg-white rounded-lg border border-gray-200 hover:shadow-md transition-shadow"
                             >
-                              <div className="relative w-32 h-32 rounded-full overflow-hidden mb-4">
+                              <div className="relative w-32 h-32 rounded-full overflow-hidden mb-4 bg-gray-200">
                                 <img src={member.data.image} alt={member.data.name} className="object-cover" />
                               </div>
                               <h3 className="text-lg font-bold">{member.data.name}</h3>
