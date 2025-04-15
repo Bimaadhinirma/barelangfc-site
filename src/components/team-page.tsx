@@ -117,7 +117,7 @@ export function GitHubIcon(props: React.SVGProps<SVGSVGElement>) {
           .map(({id, data}) => (
             <Card key={id} className="overflow-hidden py-0">
               <div className="relative aspect-square">
-                <img src={data.image} alt={data.name} /*fill*/ className="object-cover" />
+                <img src={data.image} alt={data.name} /*fill*/ className="object-cover bg-gray-200" />
                 <div className="absolute top-2 right-2">
                 <span
                   className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ${
