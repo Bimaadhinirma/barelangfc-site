@@ -9,7 +9,7 @@ export function PartnersSlider() {
   const partners = [
     { image: "polibatam.png", url: "https://www.polibatam.ac.id", name: "Politeknik Negeri Batam" },
     { image: "brail.png", url: "https://www.instagram.com/brailpolibatam/", name: "Barelang Robotics And Artificial Intelligence Lab" },
-    { image: "BFC.png", url: "https://www.instagram.com/barelangfc.polibatam/", name: "Barelang FC" },
+    { image: "bfc.png", url: "https://www.instagram.com/barelangfc.polibatam/", name: "Barelang FC" },
     { image: "barelang7.png", url: "https://www.instagram.com/barelang7.polibatam/", name: "Barelang 7" },
     { image: "barelang1.png", url: "https://www.instagram.com/barelangf1/", name: "Barelang 1" },
     { image: "barelang5.png", url: "https://www.instagram.com/barelangv_polibatam/", name: "Barelang 5" },

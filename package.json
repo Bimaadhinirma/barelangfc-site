@@ -40,6 +40,10 @@
     "onlyBuiltDependencies": [
       "esbuild",
       "sharp"
+    ],
+    "ignoredBuiltDependencies": [
+      "@tsparticles/engine",
+      "tsparticles-engine"
     ]
   }
 }
