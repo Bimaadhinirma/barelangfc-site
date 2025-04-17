@@ -8,10 +8,9 @@ category: "Competition"
 description: "Barelang FC Team from Batam State Polytechnic secured 3rd place in the Kid-Size division at RoboCup 2018 in Montreal, marking Indonesia’s first-ever achievement in this category. The team’s victory comes after winning the National Championship at Universitas Pendidikan Indonesia, Bandung."
 icon: "🥉"
 img: ./robocup2018.jpg
-teamMember: 
+teamMember:
     - 4222001029-bgfikri
-    - 4222001005-yeni
-
+    
 ---
 The Barelang FC team from Batam State Polytechnic (Polibatam) achieved third place in the international robot competition (RoboCup 2018) for the KID-Size division, organized by the RoboCup Committee from June 16–22, 2018, in Montreal, Canada. This division features humanoid soccer-playing robots. This achievement marks Indonesia's first-ever success in this category since participating in this prestigious international event 18 years ago. For the Polibatam robot team, this year's accomplishment is a step up from their performance in 2017 in Nagoya, Japan.
 <br/>

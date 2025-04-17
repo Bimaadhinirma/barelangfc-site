@@ -7,15 +7,16 @@ competition: "Kontes Robot Indonesia 2024"
 category: "Competition"
 description: "Barelang FC Team from Batam State Polytechnic secured 1st place at the 2023 Indonesian Robot Contest (KRI) in Semarang, demonstrating Indonesia’s excellence in robotics innovation and robot soccer competition."
 icon: "🥉"
-img: ./kri2024.jpg
+img: ./kri2023.jpg
 teamMember: 
-    - 4211901044-iman
+    - 4212201042-dimas
+    - 4221901046-salman
     - 4222001029-bgfikri
     - 4212101033-leo
-    - 4212101087-adimas
+    - 4211901044-iman
     - 4212201010-dani
-    - 4212201042-dimas
-
+    - 4212101087-adimas
+    
 ---
 SEMARANG - The Robotics Team from Batam State Polytechnic (Polibatam) has once again achieved national recognition at the Indonesian Robot Contest (KRI) 2023 on Sunday, June 25, 2023. The Polibatam Robotics Team secured 3 championships and 3 awards at the National Level Indonesian Robot Contest (KRI) 2023.
 <br>

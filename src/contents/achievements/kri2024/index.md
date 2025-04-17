@@ -9,8 +9,14 @@ description: "Barelang FC Team from Batam State Polytechnic secured 3rd place at
 icon: "🥉"
 img: ./kri2024.jpg
 teamMember: 
-    - 4222001029-bgfikri
-    - 4222001005-yeni
+    - 4212201037-yohanes
+    - 4212201010-dani
+    - 4222301005-shidiq
+    - 4212301088-zaky
+    - 4222301070-maul
+    - 4212101033-leo
+    - 4212201042-dimas
+    - 4212201004-choy
 
 ---
 SURAKARTA – The Batam State Polytechnic Robot Team, Barelang FC, proudly claimed 3rd place at the 2024 Indonesian Robot Contest (KRI) held in Surakarta. This achievement further solidifies Barelang FC’s reputation as one of the top robotics teams in Indonesia.

@@ -10,12 +10,12 @@ icon: "🥉"
 img: ./robocup2024.jpg
 teamMember: 
     - 4212101033-leo
-    - 4212201042-dimas
-    - 4212201037-yohanes
-    - 4212201004-choy
-    - 4212201010-dani
     - 4212301088-zaky
+    - 4212201037-yohanes
+    - 4212201010-dani
     - 4222301005-shidiq
+    - 4212201004-choy
+    - 4212201042-dimas
     
 ---
 POLIBATAM-The Batam State Polytechnic Robot Team won third place at the international level in the Robosoccer 2024 event held in the Netherlands in July. This achievement is certainly very proud of the Polibatam campus because it succeeded in making Indonesia proud in the world-level robot soccer competition against teams from other developed countries.

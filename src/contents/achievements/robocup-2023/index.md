@@ -8,17 +8,18 @@ category: "Competition"
 description: "Barelang FC Team from Batam State Polytechnic is the only Indonesian representative participating in RoboCup 2023 Humanoid League KidSize Soccer Competition division."
 icon: "🥉"
 img: ./robocop2023.jpg
-teamMember: 
-    - 4222001029-bgfikri
-    - 4222001005-yeni
-    - 4222101033-ninoi
-    - 4212101087-adimas
-    - 4212101044-aldi
-    - 4212101033-leo
+teamMember:
     - 4212201042-dimas
+    - 4212101087-adimas
+    - 4222001005-yeni
     - 4212201037-yohanes
+    - 4212101033-leo
+    - 4221901046-salman
+    - 4222001029-bgfikri
+    - 4212101044-aldi
+    - 4222101033-ninoi
+    - 4211901044-iman
 
-    
 ---
 POLIBATAM-Barelang FC Team from Batam State Polytechnic was the only Indonesian representative participating in the RoboCup 2023 Humanoid League KidSize Soccer Competition division. Barelang FC and 11 other teams from countries such as England, Japan, Germany, Brazil, Australia, France, South Korea, China, and Canada competed in a 4 vs 4 robot soccer strategy game to claim the title of best robot in the KidSize division.
 <br/>
