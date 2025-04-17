@@ -17,31 +17,31 @@ teamMember:
     - 4212201042-dimas
 
 ---
-SEMARANG - Tim Robot Kampus Politeknik Negeri Batam (Polibatam) kembali menorehkan prestasi di tingkat nasional di ajang Kontes Robot Indonesia (KRI) Tahun 2023 pada Minggu 25 Juni 2023. Tim Robot Polibatam berhasil meraih 3 Juara dan 3 Penghargaan di Kontes Robot Indonesia (KRI) Tingkat Nasional Tahun 2023.
-<br/>
-<br/>
-Pengumuman penghargaan ini disampaikan oleh Ketua juri KRI 2023 Prof Dr Eng Dr Benyamin Kusumoputro M.Eng dalam acara puncak dan penutupan KRI tahun 2023 di Gelora Prof. Sudharto, SH Universtas Semarang (USM).
-<br/>
-<br/>
-Adapun Pada Kontes Robot Indonesia 2023 Nasional di Semarang, tim Robot Polibatam mengikuti 5 divisi lomba dan berhasil membawa pulang 3 juara dan 3 penghargaan yaitu :
-Juara 1 Nasional divisi Robot Sepak Bola Humanoid
-Juara 2 Technical Challenges divisi Robot Sepak Bola Humanoid
-Juara 2 Nasional divisi Robot Bawah Air
-<br/>
-<br/>
-Serta meraih 3 penghargaan dalam kategori:
-Desain terbaik Robot Sepak Bola Humanoid
-Strategy terbaik Robot Sepak Bola Humanoid
-Penghargaan Robot Bawah Air dalam misi tambahan
-<br/>
-<br/>
-Kontes Robot Indonesia (KRI) 2023 ini diselenggarakan oleh Balai Pengembangan Talenta Indonesia (BPTI) Pusat Prestasi Nasional Puspresnas) Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi (Kemendikbudristek) Republik Indonesia. KRI pertama kali diselenggarakan pada tahun 2003 di bawah Direktorat Jenderal Pendidikan Tinggi, Departemen Pendidikan dan Kebudayaan pada saat itu.
-<br/>
-<br/>
-Staf Ahli Mendikbudristek Bidang Manajemen Talenta, Tatang Muttaqin menyampaikan bahwa dirinya yakin dalam mengikuti KRI 2023 para peserta sudah memberikan ikhtiar yang terbaik dalam kompetisi ini, yang ditunjukan dengan kreatifitas dan sportivitas saat bertanding.
-<br/>
-<br/>
-“Alhamdulillah dan selamat pada tim robot Barelang Polibatam atas prestasi ini dan kami ucapkan terima kasih kepada semua pihak yang telah membantu kelancaran dan persiapan tim Robot Polibatam dalam lomba KRI tahun ini”, tutur Hendawan Ketua BRAIL Polibatam.
+SEMARANG - The Robotics Team from Batam State Polytechnic (Polibatam) has once again achieved national recognition at the Indonesian Robot Contest (KRI) 2023 on Sunday, June 25, 2023. The Polibatam Robotics Team secured 3 championships and 3 awards at the National Level Indonesian Robot Contest (KRI) 2023.
+<br>
+<br>
+The announcement of these awards was delivered by the Head Judge of KRI 2023, Prof. Dr. Eng. Dr. Benyamin Kusumoputro, M.Eng, during the closing ceremony of KRI 2023 at Gelora Prof. Sudharto, SH, Universitas Semarang (USM).
+<br>
+<br>
+At the National Indonesian Robot Contest 2023 in Semarang, the Polibatam Robotics Team participated in 5 competition divisions and brought home 3 championships and 3 awards, namely:
+- 1st Place National Champion in the Humanoid Soccer Robot Division
+- 2nd Place in Technical Challenges for the Humanoid Soccer Robot Division
+- 2nd Place National Champion in the Underwater Robot Division
+<br>
+<br>
+Additionally, they received 3 awards in the following categories:
+- Best Design for the Humanoid Soccer Robot
+- Best Strategy for the Humanoid Soccer Robot
+- Special Award for the Underwater Robot in the additional mission category
+<br>
+<br>
+The Indonesian Robot Contest (KRI) 2023 was organized by the Indonesian Talent Development Center (BPTI) under the National Achievement Center (Puspresnas) of the Ministry of Education, Culture, Research, and Technology (Kemendikbudristek) of the Republic of Indonesia. KRI was first held in 2003 under the Directorate General of Higher Education, Ministry of Education and Culture at that time.
+<br>
+<br>
+The Expert Staff of the Minister of Education, Culture, Research, and Technology for Talent Management, Tatang Muttaqin, expressed his confidence that all participants of KRI 2023 had given their best efforts in the competition, showcasing creativity and sportsmanship during the matches.
+<br>
+<br>
+"Alhamdulillah and congratulations to the Barelang Polibatam Robotics Team for this achievement. We also extend our gratitude to everyone who supported the preparation and smooth participation of the Polibatam Robotics Team in this year's KRI competition," said Hendawan, the Head of BRAIL Polibatam.
 <br/>
 <br/>
 #Polibatam #HumasPolibatam #PrestasiTimRobotPolibatam #BRAIL #KampusPBL #KRI2023

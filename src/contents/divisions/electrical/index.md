@@ -4,7 +4,7 @@ name: "Electrical"
 icon: ./electrical.png
 description: "Developing self-navigating robots for complex environments"
 longDescription:
-    "Divisi Electrical di Brail Polibatam berfokus pada pengembangan teknologi robotika canggih dengan memanfaatkan berbagai inovasi terbaru di bidang elektronik dan kontrol sistem. Dengan menggunakan teknik seperti pengendalian motor servo, sensor canggih, dan algoritma adaptif, divisi ini merancang sistem yang memungkinkan robot bekerja secara mandiri dan efisien dalam lingkungan yang kompleks. Pendekatan mereka berfokus pada integrasi sistem elektronik untuk mendukung kinerja robot yang optimal, memastikan keamanan dan efisiensi operasional dalam berbagai aplikasi."
+    The Electrical Division at Brail Polibatam focuses on developing advanced robotics technology by leveraging the latest innovations in electronics and control systems. Utilizing techniques such as servo motor control, advanced sensors, and adaptive algorithms, this division designs systems that enable robots to operate autonomously and efficiently in complex environments. Their approach emphasizes the integration of electronic systems to support optimal robot performance, ensuring safety and operational efficiency across various applications.
 projects: 
   - "Humanoid Robot Development"
   - "Autonomous Electrical Inspection Robot"

@@ -13,13 +13,13 @@ teamMember:
     - 4222001005-yeni
 
 ---
-Tim robot Politeknik Negeri Batam (Polibatam), Barelang FC berhasil menjadi juara 3 dalam lomba robot tingkat internasional (RoboCup 2018) untuk devisi KID-Size yang diselenggarakan oleh RoboCup Committee pada tanggal 16 – 22 Juni 2018 di Montreal Canada. Dalam divisi ini ditandingkan Robot Humanoid sepak bola. Prestasi ini merupakan capaian perdana bagi Indonesia untuk divisi tersebut sejak mengikuti event bergengsi tingkat internasional sejak 18 tahun yang lalu. Bagi tim robot Polibatam prestasi tahun ini meningkat satu level dari tahun 2017 di Nagoya Jepang.
+The Barelang FC team from Batam State Polytechnic (Polibatam) achieved third place in the international robot competition (RoboCup 2018) for the KID-Size division, organized by the RoboCup Committee from June 16–22, 2018, in Montreal, Canada. This division features humanoid soccer-playing robots. This achievement marks Indonesia's first-ever success in this category since participating in this prestigious international event 18 years ago. For the Polibatam robot team, this year's accomplishment is a step up from their performance in 2017 in Nagoya, Japan.
 <br/>
 <br/>
-Tim Barelang FC mewakili Indonesia untuk divisi KID-Size setelah menjadi juara 1 tingkat Nasiaonal di Universitas Pendidikan Indonesia Bandung. Dalam kompetisi ini delegasi Indonesia terdiri dari 6 mahasiswa, 2 dosen pembimbing, 1 orang manajemen Polibatam, dan 1 orang perwakilan dari Kementerian Riset dan Pendidikan Tinggi Republik Indonesia.
+The Barelang FC team represented Indonesia in the KID-Size division after winning first place at the National Championship held at Universitas Pendidikan Indonesia, Bandung. The Indonesian delegation for this competition consisted of six students, two faculty advisors, one Polibatam management representative, and one representative from the Ministry of Research, Technology, and Higher Education of the Republic of Indonesia.
 <br/>
 <br/>
-Kelima robot Barelang FC yang diterjunkan dalam kompetisi ini merupakan hasil riset dan karya dari Hanjaya, Gobar, Akbar, Andre, Febri, dan Joni dengan bimbingan Eko Rudiawan, Hedawan, Susanto dosen Jurusan Elektro Polibatam. Proses riset dan pengembangan robot-robot tersebut 100% di laboratorium Robotika Polibatam.
+The five robots deployed by Barelang FC in this competition were the result of research and development by Hanjaya, Gobar, Akbar, Andre, Febri, and Joni, under the guidance of Eko Rudiawan, Hedawan, and Susanto, faculty members of the Electrical Engineering Department at Polibatam. The research and development of these robots were conducted entirely in the Robotics Laboratory of Polibatam.
 <br/>
 <br/>
 #polibatam #robocon #robocon2018

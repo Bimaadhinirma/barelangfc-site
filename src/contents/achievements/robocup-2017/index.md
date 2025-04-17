@@ -13,16 +13,16 @@ teamMember:
     - 4222001005-yeni
 
 ---
-Pada RoboCup 2017 yang diadakan di Nagoya, Jepang, tim robot Barelang FC dari Politeknik Negeri Batam (Polibatam) berhasil meraih posisi ke-4 dalam kompetisi sepak bola robot humanoid divisi Kid-Size. Meskipun belum berhasil meraih podium, pencapaian ini tetap menjadi langkah awal yang sangat berarti dalam perjalanan tim di kancah internasional.
+At RoboCup 2017 held in Nagoya, Japan, the Barelang FC robotics team from Batam State Polytechnic (Polibatam) achieved fourth place in the humanoid robot soccer competition, Kid-Size division. Although they did not secure a podium finish, this achievement marked a significant milestone in the team’s journey on the international stage.
 <br/>
 <br/>
-Kompetisi ini mempertemukan tim-tim robot dari berbagai negara dengan tingkat keahlian yang sangat tinggi. Bagi Barelang FC, ini adalah debut pertama mereka di RoboCup, yang sekaligus menjadi pengalaman berharga dalam menghadapi tantangan dan persaingan global. Dengan bimbingan dari dosen-dosen terkemuka Polibatam seperti Hedawan, Susanto dan 5 dosen lainnya, tim ini berhasil mengembangkan lima robot yang sepenuhnya merupakan hasil riset dan karya mahasiswa di Laboratorium Robotika Polibatam.
+The competition brought together robotics teams from various countries with exceptional expertise. For Barelang FC, this was their debut at RoboCup, providing invaluable experience in facing global challenges and competition. Under the guidance of prominent Polibatam lecturers such as Hedawan, Susanto, and five other faculty members, the team successfully developed five robots entirely based on student research and innovation at the Polibatam Robotics Laboratory.
 <br/>
 <br/>
-Pencapaian posisi ke-4 di RoboCup 2017 menunjukkan bahwa Indonesia memiliki potensi besar dalam dunia teknologi robotika. Meskipun belum berada di podium, prestasi ini menjadi batu loncatan yang menginspirasi tim untuk lebih baik lagi di masa depan. Hal ini terbukti pada tahun berikutnya, ketika Barelang FC meraih juara 3 di RoboCup 2018, sebuah pencapaian yang semakin mengukuhkan nama Polibatam di kancah internasional.
+Securing fourth place at RoboCup 2017 demonstrated Indonesia's immense potential in the field of robotics technology. While not yet on the podium, this accomplishment served as a stepping stone that inspired the team to strive for greater achievements in the future. This was evident the following year when Barelang FC won third place at RoboCup 2018, further solidifying Polibatam's reputation on the international stage.
 <br/>
 <br/>
-Pengalaman di RoboCup 2017 membuka mata banyak pihak tentang pentingnya pengembangan riset dan teknologi robotika di Indonesia, serta memberikan motivasi bagi generasi muda untuk terlibat lebih dalam dalam dunia sains dan teknologi. Keberhasilan ini juga membuktikan bahwa dengan dedikasi dan kerja keras, tim robot Indonesia mampu bersaing di tingkat dunia.
+The experience at RoboCup 2017 opened many eyes to the importance of advancing robotics research and technology in Indonesia, while also motivating the younger generation to engage more deeply in science and technology. This success also proved that with dedication and hard work, Indonesian robotics teams can compete at the global level.
 <br/>
 <br/>
 #polibatam #robocup2017 #barelangfc #robotics #robotfootball #innovation
